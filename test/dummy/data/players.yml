@@ -1,802 +1,802 @@
-# 'players' data generated automatically by dummy at 18:31 03/29/2011 (80 records).
+# 'players' data generated automatically by dummy at 19:57 03/29/2011 (80 records).
 --- 
 player_0: 
-  team: team_22
-  name: Davion Haag
-  position: Accusantium asperiores corporis sunt quasi. Ex ducimus aut provident nisi. Doloribus enim quaerat corporis deleniti.
-  number: 748
-  retired: 1
-  injured: 1
-  born_on: "2010-08-14"
-  notes: Laboriosam eligendi corporis aut veniam. Minus cupiditate aliquam ut non. Ut ab qui officiis assumenda. Sit nemo culpa laudantium laudantium. Animi iusto reiciendis voluptatem iste. Omnis animi debitis sed qui. Veritatis ipsa maxime perferendis animi. Quidem dolorem consequuntur facilis molestiae. Earum at aut accusantium sit.
-  suspended: 0
+  team: team_32
+  name: Emery Schulist
+  position: Veniam consequatur laudantium id mollitia.
+  number: 508
+  retired: "false"
+  injured: "true"
+  born_on: "2011-02-23"
+  notes: Illum nemo non et temporibus. Quis sint ut odit aut. Temporibus nemo hic ullam nulla. Ipsam doloremque odio omnis eveniet. Ipsa qui sit voluptatem porro. Recusandae amet ea reprehenderit est. Consequuntur maxime et qui voluptas. Quam omnis atque aliquam qui. Doloribus mollitia voluptatem esse sint. Pariatur magni blanditiis recusandae adipisci. Dolores dolores assumenda temporibus explicabo. Animi provident aut distinctio non. Recusandae architecto sequi nostrum praesentium. Voluptas ut dolores molestiae rem. Enim et earum non voluptas. Ab impedit consectetur eum illum. Libero quia cum quos enim. Minus qui dolores ullam dignissimos. Nulla qui earum voluptatem voluptas. Sunt officia est qui illum. Iusto deleniti et est rerum. Voluptate voluptatem minima quos officiis. Accusantium blanditiis dolores non a. Ea ipsa voluptas et provident. Assumenda animi deleniti incidunt provident. Cupiditate quae architecto optio quisquam. Ut necessitatibus velit molestias non.
+  suspended: "true"
 player_1: 
-  team: team_4
-  name: Immanuel Kovacek
-  position: Voluptatem aliquam aut quaerat maiores. Voluptatem rerum rerum excepturi incidunt. Voluptatem corporis dolorum maiores et.
-  number: 467
-  retired: 0
-  injured: 0
-  born_on: "2010-03-01"
-  notes: Exercitationem rerum reiciendis mollitia mollitia. Veniam quae sunt ut et. Saepe ipsum velit maiores explicabo. Atque est porro architecto est. Facere sed ullam ut tempora. Repudiandae expedita dolor est id. Est reprehenderit voluptatem omnis eius. Deleniti tenetur eum est ullam. Ab inventore facere incidunt sapiente. Voluptatum quis provident facilis nulla. Fuga et velit est sint. Cupiditate voluptatem vel inventore rerum. Fuga similique et nemo veniam. Autem laboriosam commodi eaque voluptatem. Voluptate voluptas occaecati dolor ullam. Cupiditate et animi numquam corporis. Assumenda quidem inventore et necessitatibus. Natus eaque consequatur optio aut. Et quo illum exercitationem pariatur. Earum ex illum est ut. Voluptatem perspiciatis id et quam. Et quos consequatur perferendis eaque. Nihil ut commodi sequi consequuntur. Asperiores nulla exercitationem quis nesciunt. Voluptatum sapiente exercitationem praesentium rem. Et est fugiat eius cum. Sed a modi dolorem porro.
-  suspended: 1
-player_2: 
-  team: team_27
-  name: Hoyt Tremblay
-  position: Est dolor modi recusandae quia.
-  number: 645
-  retired: 0
-  injured: 1
-  born_on: "2009-07-26"
-  notes: Laudantium consequatur at placeat minima. Velit illo est perspiciatis dolor. Ratione molestiae voluptas quis consectetur. Corrupti perferendis quo pariatur ea. Itaque sunt nostrum ullam laborum. Vel vel minima aut consequatur. Officiis enim possimus facilis odio. Et qui ipsam ut consectetur. Modi omnis veritatis culpa similique.
-  suspended: 1
-player_3: 
-  team: team_2
-  name: Liana Ferry
-  position: Nesciunt excepturi ea perspiciatis aut. Veritatis blanditiis architecto maxime quidem. Aut illo illum quia laudantium.
-  number: 6
-  retired: 0
-  injured: 1
-  born_on: "2009-05-21"
-  notes: Neque quia quas amet minus. Id esse consectetur doloribus facilis. Dolore perspiciatis sit commodi et. Quos consequuntur sed aut officiis. Rem reprehenderit aut nobis quam. Neque id sunt voluptates aut. Est pariatur ut quia aperiam. Fuga quibusdam consequatur facere est. Voluptate aut corrupti voluptatem et.
-  suspended: 0
-player_4: 
-  team: team_1
-  name: Garland Cassin
-  position: Totam explicabo quo illum quia.
-  number: 254
-  retired: 0
-  injured: 1
-  born_on: "2010-11-05"
-  notes: Minus commodi dolores doloribus occaecati. Fugit enim eligendi voluptatem est. Tempore adipisci nobis animi minima. Corrupti delectus illo dolor rem. Illum in illo est qui. Laudantium qui sit eius ut. Laboriosam odit culpa quis enim. Quaerat deserunt officia aliquid quo. Maxime velit libero sed unde.
-  suspended: 0
-player_5: 
-  team: team_1
-  name: Mr. Tommie O'Conner
-  position: Tenetur est odio unde excepturi. Commodi vel qui error pariatur. A dolor autem eaque sed.
-  number: 578
-  retired: 0
-  injured: 0
-  born_on: "2010-10-08"
-  notes: Repellendus est aperiam voluptatem dicta. Et rerum et dicta pariatur. Quibusdam temporibus quaerat sed dolores. Explicabo omnis maxime voluptas eos. Sint eum nam nihil sit. Ducimus ut architecto neque quae. Ut exercitationem aperiam expedita ex. Corporis voluptas nihil consequatur error. Qui delectus omnis voluptatem perspiciatis.
-  suspended: 0
-player_6: 
-  team: team_0
-  name: Kevon Blick
-  position: Ad odit atque nulla eos.
-  number: 960
-  retired: 0
-  injured: 1
-  born_on: "2010-12-27"
-  notes: Quos iusto nihil dolores perspiciatis. Recusandae provident non consequuntur doloremque. Commodi voluptatum delectus et nihil. Perferendis temporibus qui aut tempore. Et ut molestiae ut et. Occaecati tenetur asperiores debitis similique. Consequatur ut quod est quae. Totam deleniti ipsum minima et. Enim id necessitatibus accusamus rerum.
-  suspended: 0
-player_7: 
-  team: team_6
-  name: Winifred Hettinger
-  position: Nihil qui quibusdam nemo quia. Molestiae eum voluptatum sit repudiandae. Et iusto et corrupti animi.
-  number: 918
-  retired: 0
-  injured: 1
-  born_on: "2010-04-04"
-  notes: Accusamus mollitia nihil esse et. Quasi maxime quas minima consequuntur. Ut maxime sit eos quibusdam. Incidunt minus sed doloribus error. Labore eum est eos exercitationem. Voluptas ipsam sit nobis soluta. Voluptatibus ipsam dolores mollitia non. Atque aliquam repellendus ratione amet. Debitis sed voluptatem quasi in. Aut veritatis dolor ea consequuntur. Velit voluptatem quas aut aut. Deserunt et quod quia est. Sit quia aut aut qui. Non neque quia qui rerum. Ut repudiandae ut labore alias. Incidunt eos quas eveniet suscipit. Impedit ut saepe consequatur non. Ut quaerat non necessitatibus itaque. Occaecati totam suscipit alias distinctio. Earum cupiditate in dignissimos illo. In aliquid sint quasi et. Laudantium fugiat sit odit maxime. Quia veniam expedita iste veniam. Architecto eos et assumenda voluptatum. Architecto impedit sunt et totam. Ducimus ducimus vitae et minima. Consequuntur totam illo voluptatibus quis.
-  suspended: 0
-player_8: 
-  team: team_17
-  name: Lottie Corwin
-  position: Ab delectus est nesciunt impedit.
-  number: 861
-  retired: 1
-  injured: 1
-  born_on: "2010-05-02"
-  notes: Non et incidunt possimus totam. Minima sunt ipsum necessitatibus aspernatur. Quia quae adipisci deleniti a. Quidem sunt in voluptas reiciendis. Eveniet aliquid itaque cum est. Perspiciatis voluptatum in quidem quaerat. Et ipsam rem a harum. Nobis autem aut reprehenderit consequatur. Laboriosam eaque delectus in rem. Dolorem quia perferendis rerum id. Est aliquid dolorem tempora impedit. Voluptas culpa optio et sed. Vel est porro qui quia. Mollitia omnis fugiat nemo culpa. Quaerat deserunt quidem possimus at. Veniam dicta esse corrupti doloribus. Sit voluptas quo quae quia. Ipsum nobis sint rerum itaque. Sit est corporis ex et. Quae suscipit dignissimos sapiente corporis. Qui dolorem accusantium sit labore. Perspiciatis exercitationem provident doloribus repellat. Voluptatem repellendus et sit cumque. Fuga id reiciendis ea voluptatum. Cum dolorem ea sit mollitia. Totam esse quis molestias et. Eveniet nobis suscipit dolorem voluptatem.
-  suspended: 1
-player_9: 
-  team: team_38
-  name: Mathew Lemke
-  position: Est ut optio fugit neque. Eum ipsam voluptatem illo architecto. Culpa sequi sapiente minus ut.
-  number: 171
-  retired: 1
-  injured: 0
-  born_on: "2010-01-20"
-  notes: Voluptas ut culpa at recusandae. Sunt itaque molestiae saepe sed. Saepe suscipit facilis nihil sunt. Aut consectetur delectus libero aut. Quod qui ut aliquam sit. Eum architecto enim dicta est. Natus qui sed dolorem sunt. Incidunt neque et et vero. Qui non non pariatur blanditiis.
-  suspended: 1
-player_10: 
-  team: team_12
-  name: Miss Diana Raynor
-  position: Nostrum enim aspernatur dignissimos et. Enim consequatur exercitationem quia minus. Quibusdam repellendus expedita perferendis est.
-  number: 186
-  retired: 0
-  injured: 1
-  born_on: "2009-10-15"
-  notes: Corrupti velit numquam at quisquam. Repudiandae nulla eius repellat at. Eaque nihil dolorem illo laborum. Explicabo omnis illo non qui. Ea excepturi atque labore delectus. Autem et qui quae id. Minima error minima enim aliquam. Quam quis temporibus ut delectus. Molestias voluptates unde perspiciatis et. Nam quasi dolores quas iusto. Quaerat animi temporibus consequuntur atque. Nulla rerum ab quia aut. Ipsum enim ipsam adipisci voluptatem. Quasi ea aut iste ex. Earum facere iure ducimus qui. Temporibus fuga perferendis magnam necessitatibus. Eum iusto facilis eligendi modi. Aut sit tenetur non dolore. Quia ratione et beatae nesciunt. Odit possimus magni non qui. Numquam accusamus reprehenderit natus consequatur. Temporibus quo quo molestias qui. Suscipit ex id dolore aut. Earum ut assumenda error qui. Reiciendis voluptatem velit corporis dolores. Doloremque est libero illo eius. Cumque nihil sint eos officia.
-  suspended: 0
-player_11: 
   team: team_20
-  name: Rupert Renner
-  position: Et et atque aut qui. Occaecati nulla totam labore doloribus. Optio quae hic dolorem voluptas.
-  number: 382
-  retired: 1
-  injured: 1
-  born_on: "2010-07-05"
-  notes: Fuga sunt harum quod voluptatum. Minima in impedit commodi omnis. Quam asperiores possimus illum voluptas. Quibusdam sunt voluptatem ut facere. Atque asperiores nam magnam quia. Accusamus quod perspiciatis aspernatur quo. Eveniet sed sequi laudantium et. Eos quasi facere et asperiores. Saepe ea et distinctio quod.
-  suspended: 1
-player_12: 
-  team: team_3
-  name: Mr. Destiny Marquardt
-  position: Nobis dicta iure sunt voluptas. Accusamus veniam laborum occaecati dolorem. Earum architecto velit totam ut.
-  number: 837
-  retired: 0
-  injured: 0
-  born_on: "2010-06-23"
-  notes: Dicta dolor harum rerum omnis. Aut necessitatibus quia beatae et. Placeat non omnis sunt odit. Sit odio sed reiciendis amet. Esse culpa quos est aut. Dolores ad delectus ratione magni. Consequatur perferendis aut beatae rerum. Ea eos est aliquam aliquid. Odit aut ipsum nisi ut.
-  suspended: 0
-player_13: 
-  team: team_32
-  name: Miss Valerie Grady
-  position: Fugiat deserunt est magnam autem. Fugiat beatae pariatur repellendus sit. Aperiam consectetur hic voluptas molestiae.
-  number: 930
-  retired: 0
-  injured: 1
-  born_on: "2009-04-20"
-  notes: Quibusdam ducimus ut ad sint. Rerum quod sunt vel similique. Fugit et aperiam dolores dolor. Non mollitia nostrum porro aliquam. Et eum et ipsa in. Nam unde nulla ab deleniti. Nam voluptatum saepe veritatis placeat. Veritatis soluta impedit perspiciatis earum. Doloribus aut soluta non omnis. Quia aspernatur et laboriosam et. At iste non fuga labore. Nemo perferendis est quae totam. Natus minus nobis nihil non. Iste rerum libero eius dolor. Voluptatem magni deleniti quis aliquid. Aut cum non et aut. Illum aspernatur fugit saepe accusamus. Eaque voluptatibus eveniet ipsum pariatur. Harum nam minima atque harum. Non nulla reiciendis nam earum. Sunt velit qui tempore veniam. Cupiditate et provident ipsam voluptas. Amet id molestias et vel. Dolorem eaque molestias optio ab. Minus illum aut pariatur ipsa. Eveniet architecto provident dolorem quia. Dolorem voluptatem culpa totam sapiente.
-  suspended: 1
-player_14: 
-  team: team_9
-  name: Pearlie Gulgowski
-  position: Voluptatem unde incidunt et recusandae. Tenetur minus totam expedita et. Nulla ipsa et eligendi aut.
-  number: 426
-  retired: 0
-  injured: 0
-  born_on: "2009-06-25"
-  notes: Necessitatibus dolore debitis animi rerum. Totam ex nemo vel voluptates. Enim dignissimos veniam debitis corporis. Odio vel et eos culpa. Labore et autem ea impedit. Necessitatibus reprehenderit accusamus consectetur et. Minus saepe velit facere dolor. Perferendis sit sit sed quo. Sit minus eveniet et et. Adipisci porro unde harum laborum. Illum totam tenetur molestiae a. Maiores placeat aut voluptate quia. Qui odio dolor numquam deleniti. Reprehenderit est consequatur consequuntur tempora. Nemo vel dignissimos praesentium rem. Autem quis ex incidunt sequi. Quia assumenda quis porro voluptates. Reprehenderit minima nemo aut id. Iure molestiae illo est fugiat. Repellendus perspiciatis porro id nisi. Quia quia doloribus dolorem ad. Quisquam molestiae aspernatur sed eligendi. Autem tempora quos aut ducimus. Quo deserunt hic quaerat aut. Aut voluptatem animi nisi voluptatem. Quia ea quam ab ipsa. Ut iusto porro natus ullam.
-  suspended: 0
-player_15: 
-  team: team_25
-  name: Ms. Melyssa Ruecker
-  position: Ut dolores quibusdam non mollitia.
-  number: 600
-  retired: 0
-  injured: 1
-  born_on: "2009-12-14"
-  notes: A repellendus qui vel aspernatur. Sunt quo sed ab voluptas. Eveniet et expedita ut consequuntur. Vero laborum culpa et veniam. Mollitia voluptates accusamus est consequuntur. Unde voluptas dolorem sed aperiam. Provident voluptas et autem non. Temporibus saepe sed nihil ut. Similique iusto molestiae non nihil.
-  suspended: 1
-player_16: 
-  team: team_20
-  name: Keira Effertz DVM
-  position: Cumque nesciunt velit qui consectetur. Accusamus illo nemo odio amet. Aut quae nisi aspernatur reprehenderit.
-  number: 409
-  retired: 1
-  injured: 1
-  born_on: "2010-01-10"
-  notes: Sit ratione molestias quod beatae. Rerum consequatur magnam incidunt ut. Eos nihil tempora vero repudiandae. Asperiores mollitia inventore vel accusantium. Nesciunt qui adipisci ut non. Ea hic est mollitia minus. Voluptatibus saepe recusandae incidunt ullam. Recusandae molestias quis quidem vel. Voluptatem vel laboriosam facere labore. Numquam voluptatem non praesentium doloribus. Temporibus magnam qui ut neque. Soluta tempora aliquid accusamus maxime. Unde minima ut molestiae est. Laboriosam et sit quia harum. Voluptatem suscipit quis et dolor. Consectetur dicta repellendus et inventore. Eum nemo molestias rerum tenetur. Fugiat est qui mollitia consequuntur. Quod est quo est qui. Minus quis sit aspernatur voluptas. Explicabo voluptate id voluptas inventore. Cum quae voluptatem cupiditate recusandae. Ratione consequatur voluptas assumenda quia. Recusandae sit voluptas iusto dolores. Numquam et quo voluptates molestiae. Magni aut et at nisi. Voluptates est dicta at ipsam.
-  suspended: 0
-player_17: 
-  team: team_19
-  name: Danyka Pouros
-  position: Voluptate consequatur deleniti ut doloremque.
-  number: 59
-  retired: 1
-  injured: 1
-  born_on: "2009-06-07"
-  notes: Saepe molestiae aut consequatur odio. Minima magnam consequatur aperiam optio. Aliquid repellendus optio sit laboriosam. Perferendis et distinctio deserunt molestiae. Et excepturi sed et necessitatibus. Accusamus in dolore blanditiis quos. Nulla nostrum voluptatem repudiandae error. Ipsa iste quae maxime amet. Est aperiam quae aliquam doloribus. Temporibus et quae illo repellat. Eaque cum rem debitis eum. Repellat est autem magni minus. Nam cupiditate exercitationem ut qui. Et eos repellendus voluptas a. Quasi voluptatibus est ipsam fuga. Ipsam laborum sunt nam consequuntur. Quam et vel totam in. Quasi fuga eum dolor qui. Enim quasi porro laudantium similique. Alias et odio ad neque. Velit praesentium quas soluta totam. Autem autem quam qui magni. Sit hic non atque exercitationem. Qui dolores error et perferendis. Est aspernatur in illo molestiae. Assumenda dicta consequatur doloremque est. Nihil laudantium omnis iste et.
-  suspended: 0
-player_18: 
-  team: team_0
-  name: Freda Ferry
-  position: Rerum ea sunt numquam voluptates. Vero accusantium ut iure est. Id quibusdam eum quam rerum.
-  number: 142
-  retired: 0
-  injured: 1
-  born_on: "2009-04-27"
-  notes: Sunt totam aut quod accusantium. Aspernatur soluta doloribus temporibus corporis. Fugit occaecati provident et voluptatum. Inventore nesciunt non aliquam occaecati. Qui officiis quos accusamus consectetur. Nostrum similique eum corporis beatae. Voluptates ullam et dignissimos fuga. Sed itaque aut laudantium voluptatum. Eos ut non nisi dolorem.
-  suspended: 0
-player_19: 
-  team: team_12
-  name: Ronaldo Reilly
-  position: Incidunt consequatur dolores id non.
-  number: 524
-  retired: 0
-  injured: 1
-  born_on: "2010-01-08"
-  notes: Non sunt dolores similique aspernatur. Sapiente porro velit sapiente architecto. Hic voluptatem est quos sapiente. Aliquid enim reprehenderit quis modi. Quo iure est doloremque tenetur. Culpa voluptate ab qui ab. Accusantium eius laboriosam officia animi. Voluptas error reiciendis nostrum necessitatibus. Dolorem quia veritatis eos quis. Repellat et libero omnis molestiae. Recusandae perferendis pariatur quia fugit. Ea tempora eum ut sunt. Qui soluta quo autem natus. Sint rem dolor corporis quia. Odio quis iusto illo aliquid. Voluptate culpa ut dolorum at. Optio voluptate occaecati explicabo saepe. Sed et consequatur harum odit. Sed earum delectus laudantium qui. Labore sint facilis asperiores corporis. Quaerat ut quod a aut. Odit quia corporis accusamus commodi. Ex rerum natus sunt ipsum. Non ut commodi tenetur vel. Nemo maxime assumenda voluptatem qui. Maxime occaecati occaecati non omnis. Sed sed dolorem ipsum adipisci.
-  suspended: 1
-player_20: 
-  team: team_20
-  name: Leo Ebert
-  position: Commodi distinctio est unde molestiae. Aliquam quo delectus error sint. Incidunt aliquam aut autem sit.
-  number: 716
-  retired: 0
-  injured: 1
-  born_on: "2009-10-09"
-  notes: Deleniti iusto quasi explicabo voluptatem. Dolores explicabo cum sit sunt. Aut ut dolores dolore incidunt. Et asperiores qui voluptatem laudantium. Qui vel necessitatibus illo excepturi. Consectetur earum quia veritatis incidunt. Omnis repellat beatae et perspiciatis. Laborum perferendis magnam similique velit. Dolorem ipsam autem ut perferendis. Repellat impedit commodi facere repudiandae. Nam soluta totam et voluptates. Dignissimos voluptas quo iste sunt. Error sed et placeat rerum. Esse repellendus et ut et. Voluptas ut vitae et commodi. Commodi tenetur molestias nisi molestiae. Sed id rerum sit laborum. Fuga rem ea sit temporibus. Amet aliquam impedit et veritatis. Qui eos perferendis laudantium rem. Est qui cupiditate cum voluptas. Tempora quia blanditiis quibusdam unde. Porro eveniet fugit saepe id. Magnam aut velit debitis ab. Enim molestiae possimus sunt placeat. Nihil quo aut eius eius. Fugit et occaecati magnam quaerat.
-  suspended: 0
-player_21: 
-  team: team_32
-  name: Ms. Abdiel Hyatt
-  position: Delectus voluptatem qui sit ipsa.
-  number: 868
-  retired: 0
-  injured: 1
-  born_on: "2010-04-27"
-  notes: Voluptatum laboriosam debitis quos esse. Cum aut aut eligendi dicta. Consequatur voluptatum facere et nesciunt. Ut dolores non qui corporis. Error facilis pariatur officiis animi. Iure deleniti repudiandae distinctio id. Ea quos rem debitis cumque. Quam nobis temporibus doloribus officia. In possimus quidem autem minima.
-  suspended: 1
-player_22: 
-  team: team_29
-  name: Wyman Schumm
-  position: Esse et asperiores excepturi similique. Qui labore incidunt iure sit. Facilis dolorem necessitatibus voluptates quasi.
-  number: 654
-  retired: 0
-  injured: 1
-  born_on: "2009-12-27"
-  notes: Quia delectus reprehenderit fugiat itaque. Ipsum ut modi consectetur corporis. Ipsa quae ut ratione debitis. Dolorum dolore quisquam itaque est. Molestias esse dolores id reprehenderit. Error quas non hic ea. Nulla nisi cupiditate voluptatem velit. Qui quisquam veniam expedita est. Facilis veritatis facilis recusandae nihil.
-  suspended: 1
-player_23: 
-  team: team_2
-  name: Mrs. Claudine Metz
-  position: Occaecati sit dolorem unde et. Expedita in sequi saepe eos. Praesentium doloribus error blanditiis cum.
-  number: 3
-  retired: 0
-  injured: 1
-  born_on: "2010-10-06"
-  notes: Totam ut nulla ipsam delectus. Voluptatem iure recusandae possimus aut. Sequi aperiam exercitationem voluptatem expedita. Veniam animi provident quis voluptas. Sunt voluptatem culpa ullam neque. Ut corporis architecto earum eius. Atque nam nisi ab omnis. Commodi repudiandae adipisci et nulla. Non soluta assumenda dolorem voluptatum. Enim culpa maiores sed ducimus. Eos repellendus velit est dolor. Enim nihil itaque ut necessitatibus. Dicta repellat ut vero placeat. Voluptate facilis ad reprehenderit quae. Voluptatem et animi in eveniet. Ad molestiae nam est ab. Ipsum provident sed non quasi. Fugiat omnis ut assumenda aspernatur. Laborum est iusto magni assumenda. Doloremque unde impedit et et. Praesentium nihil quisquam doloribus autem. Possimus ullam in nisi iusto. Delectus recusandae maiores iusto voluptatibus. Quaerat molestiae ipsa sapiente distinctio. Ut consequatur maxime exercitationem sit. Itaque nulla maiores aut sunt. Cumque id consectetur optio veritatis.
-  suspended: 1
-player_24: 
-  team: team_6
-  name: Shanel Kunze
-  position: Sit et aut fuga consequatur. Rerum necessitatibus tenetur repudiandae provident. Suscipit est earum tempore totam.
-  number: 766
-  retired: 0
-  injured: 1
-  born_on: "2010-04-21"
-  notes: Eaque qui atque laborum dolorem. Facilis voluptatum fugiat totam ullam. Atque dolorem magni quisquam magni. Sunt consequatur tenetur maxime ex. Unde aut hic ex repellat. Beatae quasi laudantium voluptatem ut. Harum sunt consequatur aliquid ut. Omnis maxime molestias omnis inventore. Amet facilis aut ab harum.
-  suspended: 1
-player_25: 
-  team: team_22
-  name: Tyson Predovic
-  position: Delectus mollitia eveniet illo aliquam. Eos eos est dicta dolor. Quia hic reiciendis id asperiores.
-  number: 695
-  retired: 1
-  injured: 1
-  born_on: "2009-10-08"
-  notes: Et quis numquam animi rerum. Ducimus rem non quo unde. Ut non occaecati esse voluptas. Quasi cum repudiandae earum velit. Earum ipsum illum nisi vitae. Ad sit est libero dolore. Nam commodi enim aliquid delectus. Placeat quae aut harum rerum. Qui omnis voluptatem voluptates magnam.
-  suspended: 0
-player_26: 
-  team: team_0
-  name: Kamille Hamill
-  position: Suscipit quod animi saepe molestias. Dolorem quod autem illum reiciendis. Ex enim hic qui eius.
-  number: 812
-  retired: 1
-  injured: 0
-  born_on: "2010-12-30"
-  notes: Voluptas qui ut enim commodi. Labore earum sit fuga totam. Incidunt ut corrupti ipsa aut. Voluptatibus sit quam tempora aut. Sit in id quia fugiat. Id quo impedit eaque aut. Reprehenderit atque ipsam et debitis. Id sint ratione quia quibusdam. Qui vitae est nemo dolor. Est voluptas sint quia laborum. Quam dolorem inventore quia possimus. Eos blanditiis quod incidunt odio. Tenetur ducimus tempore est totam. Et delectus voluptatem non quos. Qui distinctio aut molestiae nihil. Et sit aut mollitia deserunt. Qui consequatur quasi iste rerum. Tenetur vero recusandae neque facilis. Facilis aut placeat accusantium sint. Minus atque cupiditate quia cupiditate. At corrupti perferendis omnis suscipit. Suscipit et voluptas veniam modi. Ea fugit odio saepe rerum. Officia rerum maxime itaque doloremque. Nesciunt ab repudiandae optio natus. Laborum molestias maxime aut architecto. Sed soluta deleniti doloremque dolorem.
-  suspended: 0
-player_27: 
-  team: team_13
-  name: Clay Kirlin
-  position: Minus possimus qui est sit.
-  number: 188
-  retired: 0
-  injured: 1
-  born_on: "2010-06-16"
-  notes: Quia officia voluptatem omnis architecto. Vel mollitia sit debitis voluptate. Aspernatur maxime ut quibusdam adipisci. Ut aut alias ipsa aut. Totam eligendi ut eius sed. Quia sed est et numquam. Iure quia nemo doloribus culpa. Quae sapiente qui sint quis. Voluptas sunt delectus aliquid minus.
-  suspended: 1
-player_28: 
-  team: team_34
-  name: Shawna Thompson
-  position: Alias necessitatibus omnis id quia. Omnis doloribus nesciunt aut doloribus. Ut est odio omnis libero.
-  number: 589
-  retired: 0
-  injured: 1
-  born_on: "2010-08-07"
-  notes: Necessitatibus reiciendis doloremque doloremque voluptas. Consequuntur dolore cumque qui exercitationem. Magni voluptatem asperiores in provident. Ut ut vero iste repellendus. Inventore eveniet iusto fugiat ab. Dolores omnis consequatur totam autem. Quo mollitia neque consequatur natus. Sunt ut nobis iusto corrupti. Iste aliquid fuga dolorem quod.
-  suspended: 0
-player_29: 
-  team: team_35
-  name: Annamae Klein
-  position: Enim culpa unde perspiciatis eius.
-  number: 9
-  retired: 0
-  injured: 1
-  born_on: "2009-08-16"
-  notes: Odit iste suscipit dolorum et. Iure omnis voluptas qui natus. Vitae in fuga quas amet. Odit quis id commodi alias. Qui aperiam eaque minima sint. Voluptatem quasi voluptatem consequuntur dolorum. In voluptas nihil rerum quia. Commodi non ut minima sequi. Natus nostrum consequuntur mollitia dolorem.
-  suspended: 0
-player_30: 
-  team: team_9
-  name: Dr. Michaela Boyle
-  position: Qui enim omnis dolorem animi. Soluta quia maxime aut dolorem. Quam quo autem maxime autem.
-  number: 905
-  retired: 0
-  injured: 0
-  born_on: "2010-04-06"
-  notes: Asperiores eius eaque accusamus et. Facilis corrupti voluptatem at quia. Autem dolores ex voluptas vitae. Ut delectus et iusto sit. Repudiandae omnis rerum modi repudiandae. Voluptatem rerum quas voluptate velit. Sit cumque mollitia qui aliquam. Sapiente et occaecati tenetur tenetur. Et eos tenetur qui eum.
-  suspended: 0
-player_31: 
-  team: team_38
-  name: Guiseppe Casper
-  position: Explicabo tempore et optio dolor. Non quis ut rerum dolor. Id reiciendis magnam sit ullam.
-  number: 396
-  retired: 1
-  injured: 0
-  born_on: "2009-12-02"
-  notes: Est hic asperiores quasi cumque. Aut quibusdam veniam ipsum voluptas. Ut sint est mollitia rerum. Consequatur voluptas eaque ad maxime. Repudiandae tenetur quos repellat id. Corrupti aspernatur facilis earum dolores. Mollitia eaque libero autem aut. Quidem repudiandae necessitatibus est et. Quos omnis illum ut nam.
-  suspended: 0
-player_32: 
-  team: team_21
-  name: Daniela Grimes
-  position: Est quam dignissimos est aut.
-  number: 518
-  retired: 1
-  injured: 1
-  born_on: "2010-03-29"
-  notes: Cum dolore perferendis commodi et. Commodi consectetur dolores perferendis alias. Minus incidunt aut fugit sunt. Iste repellat et consequatur et. Repellat nobis consequatur eius dicta. Rem qui reprehenderit voluptate sit. Laboriosam nihil ratione quo omnis. Impedit necessitatibus minus ducimus voluptas. Alias voluptate provident maiores et.
-  suspended: 0
-player_33: 
-  team: team_3
-  name: Norberto Yost
-  position: Aliquam est omnis animi neque. Quaerat ea quis omnis corporis. Doloribus voluptas enim quae nihil.
-  number: 54
-  retired: 1
-  injured: 1
-  born_on: "2009-07-14"
-  notes: Velit consequatur rerum sit deserunt. Iusto et quasi autem labore. Fugiat quis suscipit dolor ratione. Perspiciatis omnis necessitatibus hic maiores. Nesciunt voluptatem qui repudiandae placeat. Et aperiam vitae vel laboriosam. Ut sunt accusamus nemo est. Corrupti quo in quia enim. Itaque aliquid non commodi sit. Libero dignissimos dicta quibusdam ut. Molestiae ut quidem optio repudiandae. Et ut repellendus adipisci quae. Enim voluptas et voluptatibus sit. Aut vitae magni minima culpa. Quos quae rerum nostrum et. Aliquid natus voluptatibus modi neque. Placeat explicabo necessitatibus minima minima. Ut tempora rerum architecto qui. Dolor tenetur quisquam aspernatur quasi. Quo aspernatur consequuntur voluptatem facilis. Non unde occaecati aut ratione. Nihil voluptatem iste eum blanditiis. Sed atque non dolor quia. Rerum ea ea ex repudiandae. Delectus eos rem quia ut. Accusamus provident ut dolor ut. Suscipit fugiat quasi voluptatum quae.
-  suspended: 1
-player_34: 
-  team: team_1
-  name: Eriberto Cormier
-  position: Recusandae iusto eligendi vitae facilis. Recusandae nobis est cupiditate maxime. Voluptatem totam illum sint ipsum.
-  number: 775
-  retired: 0
-  injured: 0
-  born_on: "2009-04-22"
-  notes: Repellendus et exercitationem corporis provident. Enim quam explicabo et molestiae. Qui eligendi exercitationem sit quas. Qui omnis eligendi et dolore. Reprehenderit eius magni non qui. Voluptas quia incidunt saepe aperiam. Ut omnis ducimus enim aliquam. Non aspernatur esse hic in. Voluptatum placeat saepe porro occaecati. Et architecto in ratione quia. Labore qui ratione molestiae dolor. Delectus consequuntur quibusdam modi quas. Qui iste ratione laudantium labore. Non atque occaecati vel ad. Impedit asperiores debitis odio quis. Libero qui harum id et. Aut maiores repellat exercitationem vitae. Omnis dolor quia rem delectus. Placeat ut amet eum impedit. Non officiis eius error distinctio. Unde vitae quibusdam laudantium molestiae. Voluptatum libero voluptas repudiandae iure. Nemo tempore minima quo suscipit. Nobis tempore quo sit tenetur. Totam eos quae quam voluptatum. Officia culpa consequatur et veniam. Laudantium rerum possimus ut nam.
-  suspended: 1
-player_35: 
-  team: team_36
-  name: Dr. Nyah Mann
-  position: Rerum laudantium laborum quis dolorem.
-  number: 872
-  retired: 1
-  injured: 1
-  born_on: "2009-07-06"
-  notes: Qui tenetur maxime iste repellendus. Quia voluptas architecto soluta nemo. Minima itaque sequi quia ad. Voluptatibus ut voluptatem eveniet molestiae. Est minima hic voluptatibus voluptatum. Et rerum dolorum temporibus ducimus. Veniam deserunt sed repellat aut. Commodi cum et enim dignissimos. Debitis qui voluptatum nostrum sint.
-  suspended: 0
-player_36: 
-  team: team_15
-  name: Dallas Schoen
-  position: Culpa et in veritatis exercitationem. Deleniti fugiat ratione rerum quia. Quia expedita laboriosam ad iste.
-  number: 380
-  retired: 1
-  injured: 1
-  born_on: "2009-09-09"
-  notes: Quo voluptatem beatae animi vitae. Exercitationem occaecati in omnis in. Sint mollitia aut deserunt cumque. Quia doloribus velit hic dolores. Et eos sed molestiae et. Commodi officiis minima labore a. Autem qui nisi sunt qui. Ullam et distinctio sint odit. Consequatur dolorem nobis sit incidunt. Ut consectetur autem est aliquid. Harum occaecati odit sequi et. Placeat voluptatem ipsa aspernatur asperiores. Esse ullam eligendi aut at. Non praesentium maiores voluptatem natus. Et adipisci nesciunt consequatur eligendi. Sit ut consectetur libero distinctio. Accusantium quis quod dolores ut. In unde qui laboriosam repellat. Non voluptatum unde iusto maxime. Et minus unde dicta ut. Reprehenderit dolorem ut magni dignissimos. Qui maiores placeat voluptates harum. Beatae sunt doloribus fugit dignissimos. Est commodi exercitationem cumque doloribus. Quis aliquid doloremque dicta ad. Sit rem nobis voluptatum tenetur. Autem reiciendis minus id id.
-  suspended: 0
-player_37: 
-  team: team_18
-  name: Devonte Thiel
-  position: Aut qui omnis dolore sit.
-  number: 165
-  retired: 0
-  injured: 1
-  born_on: "2009-05-12"
-  notes: Voluptatem quas ducimus esse quia. Et sit quia nulla assumenda. Officia sit quas deserunt facilis. Impedit neque qui harum consequuntur. Vel doloribus ipsam rerum voluptatem. Iste earum cumque voluptatum similique. Placeat quas voluptas officia pariatur. Dignissimos odio nesciunt quibusdam qui. Nisi nisi voluptas accusamus doloremque. Doloremque optio quia doloremque et. Et voluptatem consequatur non est. Nesciunt fuga id mollitia labore. Qui est officia libero sunt. Ex ducimus necessitatibus hic eum. Molestiae qui nulla repellendus cum. Modi blanditiis labore ut eligendi. Distinctio quaerat minus facilis quaerat. Et ad autem nihil illo. Quia eum ut debitis hic. Non in odit veritatis eveniet. Consequatur quia fugit porro distinctio. In itaque quia qui dolore. Similique voluptatibus est sit recusandae. Minus aut est est sunt. Voluptatum odit magni dolores explicabo. Architecto quia sequi pariatur et. Sint quo rerum et est.
-  suspended: 0
-player_38: 
-  team: team_10
-  name: Carolina Corkery
-  position: Illum ut officia vel quia.
-  number: 887
-  retired: 0
-  injured: 1
-  born_on: "2010-04-14"
-  notes: Iusto non atque dolor sed. Quis ipsa non autem modi. Occaecati dolores ullam voluptas tempore. Saepe doloribus rerum sed est. Et autem dignissimos et veniam. Quasi et optio ipsa et. Blanditiis est autem modi molestiae. Accusantium sed quia voluptate quod. Ducimus excepturi quis error est.
-  suspended: 0
-player_39: 
-  team: team_15
-  name: Dahlia Torphy
-  position: Architecto et dolorem atque qui.
-  number: 32
-  retired: 1
-  injured: 0
-  born_on: "2011-03-27"
-  notes: Aut magnam pariatur unde explicabo. A magni aut tenetur eos. Occaecati corporis sequi dolores sed. Velit voluptatibus fugit ea aspernatur. Nulla recusandae aliquam quis minus. Eum nihil eveniet vero optio. Inventore ea consequuntur recusandae nemo. Sit odio eos sit itaque. Quo illum blanditiis recusandae debitis.
-  suspended: 1
-player_40: 
-  team: team_15
-  name: Golda Lynch
-  position: Laboriosam veniam sit consequatur aliquid.
-  number: 506
-  retired: 0
-  injured: 0
-  born_on: "2010-03-26"
-  notes: Est architecto et et et. Et praesentium esse ut ipsam. Aut sed sunt eveniet aspernatur. Reprehenderit est culpa voluptatem possimus. Rerum accusantium eveniet voluptas ea. Quo sed omnis similique rerum. Eos nihil consequatur esse ea. Aut unde qui pariatur nihil. Aut doloribus ducimus eum ad.
-  suspended: 1
-player_41: 
-  team: team_7
-  name: Hassie Altenwerth DDS
-  position: In fugit laborum a officia.
-  number: 406
-  retired: 0
-  injured: 0
-  born_on: "2009-10-03"
-  notes: Explicabo facere quo aliquid dolor. Ratione quia nobis officiis autem. Quae temporibus qui quasi excepturi. Sit sapiente quia dolores fugiat. Voluptate nobis id voluptatem non. Perferendis qui sed autem rem. Quibusdam atque temporibus neque quod. Quasi reprehenderit quam neque ut. Ut eos natus quidem aut. Enim delectus voluptas molestiae quasi. Ipsam eligendi sed consequatur laborum. Sit dolor consectetur qui voluptatum. Similique nihil ratione id rerum. Laborum quasi perspiciatis quis sequi. Placeat culpa quam molestiae unde. Debitis voluptatum amet aliquam distinctio. Aut reprehenderit fugit molestiae fugit. Qui dolore omnis ipsa odit. Minus velit quam laudantium accusamus. Veniam consequatur perspiciatis enim placeat. In aperiam ipsa ut nesciunt. Fuga labore explicabo earum animi. Explicabo consequatur quia quaerat inventore. Dolor consequuntur repudiandae quo voluptas. Impedit distinctio eum ut laudantium. Optio veritatis eos ullam eos. Maiores dignissimos facere laborum quia.
-  suspended: 1
-player_42: 
-  team: team_35
-  name: Mr. Evalyn Stiedemann
-  position: Consequuntur quia unde aspernatur voluptas. Et mollitia illo sed ducimus. Quas debitis nobis blanditiis suscipit.
-  number: 473
-  retired: 0
-  injured: 1
-  born_on: "2011-03-05"
-  notes: Aspernatur dolores eos non sit. Repellendus quam facere tempore nulla. Ea rem beatae neque ut. Quasi aperiam occaecati sunt maiores. Sapiente consequuntur non id quidem. Est at quidem aut a. Minima quia amet rem placeat. Qui dignissimos qui voluptatum in. Animi dolor repellendus dicta a. Qui voluptatum sequi sunt modi. Porro excepturi accusantium recusandae accusamus. Labore quis autem numquam sunt. Rerum saepe similique voluptatem aut. Est quis sit fugit sint. Exercitationem natus qui temporibus accusamus. Ipsum asperiores voluptatem itaque cupiditate. Inventore quas harum dolorem voluptas. Aliquid dolor quia accusamus accusamus. Est consequatur voluptate in in. Temporibus soluta deserunt ullam aperiam. Iusto molestiae et doloremque deleniti. Tempora in enim in dicta. Et aut ducimus impedit iusto. Aut dolore non aut dicta. Reprehenderit amet dolores doloremque aliquid. Nihil voluptas rerum quasi aspernatur. Exercitationem neque est deleniti sint.
-  suspended: 0
-player_43: 
-  team: team_5
-  name: Antonina D'Amore
-  position: Accusantium quia molestiae nihil mollitia. Dolorem impedit dignissimos enim et. Molestiae veritatis itaque omnis nihil.
-  number: 326
-  retired: 0
-  injured: 1
-  born_on: "2010-07-04"
-  notes: Aut distinctio fuga amet unde. Autem totam quos nostrum tempore. Sed voluptate voluptatibus aut vero. Soluta nihil dolorem non dolorem. Quae occaecati numquam nobis sed. Tempore mollitia aliquid aut quam. Temporibus laborum corrupti aut voluptatum. Pariatur voluptatem id commodi sint. Tempore quo quas recusandae earum. Autem cupiditate nemo est ut. Error qui deleniti est ut. In recusandae suscipit debitis ea. Atque voluptas et illum quis. Aspernatur aut aut qui nisi. Soluta molestiae assumenda aliquam placeat. Quos quasi aut rerum repellendus. Optio aut harum vitae exercitationem. Ut reiciendis voluptatem aliquam modi. Culpa eum necessitatibus veniam et. Blanditiis et voluptates numquam velit. Sit aut dolorem ea nihil. Saepe ea repudiandae similique esse. Et aperiam cupiditate quam et. Voluptatibus quia voluptate ut quo. Illum quibusdam ducimus ducimus omnis. Magni et perferendis eos eligendi. Neque neque est molestiae numquam.
-  suspended: 0
-player_44: 
-  team: team_36
-  name: Judah Upton DDS
-  position: Debitis porro aspernatur quasi fuga. Ratione voluptas hic doloremque fugit. Sit et saepe velit eos.
-  number: 782
-  retired: 0
-  injured: 0
-  born_on: "2009-06-21"
-  notes: Velit eum deleniti sit non. Laborum ut veniam minus rerum. Sit dignissimos dolorem animi maiores. Vitae fugit voluptatum non porro. Sed quibusdam cumque dolor harum. Exercitationem unde provident nihil eos. Quis iusto sint et ullam. Quasi mollitia sequi aut quia. Aut nihil amet cum maxime. Eum velit vitae illum explicabo. Pariatur illum at expedita soluta. Facilis sequi reprehenderit exercitationem odio. Similique dolor minima dolore nemo. Eius omnis voluptatum consequuntur facilis. Natus ut soluta voluptatem laboriosam. Omnis alias consectetur explicabo quo. Sunt et ducimus voluptas et. Dolore beatae nesciunt cum tempora. Adipisci officiis vel exercitationem rerum. Excepturi in beatae nihil et. Quia amet nihil ad expedita. Tenetur vitae quo eos eum. Dolor quod quibusdam itaque dolorem. Ipsa reprehenderit neque consequatur inventore. Explicabo tenetur odio et earum. Voluptatum natus nulla laudantium nobis. Optio aut harum labore harum.
-  suspended: 1
-player_45: 
-  team: team_29
-  name: Era Hegmann
-  position: Nihil minima magnam non itaque.
-  number: 552
-  retired: 0
-  injured: 1
-  born_on: "2009-07-09"
-  notes: Est iure explicabo doloremque excepturi. Omnis sint id vero eveniet. Natus harum quaerat commodi corporis. Est blanditiis debitis sunt delectus. Dignissimos dolores minima temporibus voluptas. Et tempora odio sit ut. Culpa ea nihil eligendi fugit. Delectus a ab quia et. Quo quae eos in qui.
-  suspended: 1
-player_46: 
-  team: team_17
-  name: Cecelia Marquardt MD
-  position: Nulla ipsa quis minima magnam.
-  number: 477
-  retired: 1
-  injured: 0
-  born_on: "2009-08-04"
-  notes: Natus doloremque dignissimos ea ab. Non nihil totam est rerum. Minima est magni enim sit. Voluptatem enim vitae eveniet est. Sit similique voluptas maiores exercitationem. Totam tempora et corporis saepe. Aspernatur similique enim laborum repellendus. Dolore labore vero similique amet. Voluptatem rerum illo doloribus maiores. Officia est itaque sunt numquam. Et eum impedit eligendi totam. Amet quam accusantium voluptas temporibus. Ipsam rerum sit accusamus distinctio. Accusantium aut odio eius sed. Et vel molestias earum consectetur. Sit ducimus nemo a occaecati. Vel quis deleniti qui aliquam. Ut esse cupiditate sit est. Quia sit deserunt temporibus vel. Nobis molestiae cupiditate veniam cumque. Nostrum sit sequi necessitatibus tenetur. Ad voluptatem quod assumenda provident. Autem et dicta animi omnis. Minima nihil nam est adipisci. Necessitatibus recusandae nisi magnam ut. Ea architecto officia iusto quia. A vitae non est sed.
-  suspended: 1
-player_47: 
-  team: team_19
-  name: Forrest Schaden
-  position: Officia neque tempore dicta voluptates. Quia aperiam repellendus laudantium porro. Minus ab dolor consequatur officiis.
-  number: 845
-  retired: 0
-  injured: 1
-  born_on: "2010-10-07"
-  notes: Rem pariatur explicabo rerum officiis. Adipisci et eligendi assumenda tempore. Facere asperiores possimus sit ullam. Sunt excepturi id iure vitae. Laboriosam voluptates eum ut ducimus. Fugit placeat impedit voluptatem quia. Exercitationem impedit delectus amet autem. Non doloremque et sed nisi. Inventore eum aliquam nihil ut. Excepturi quae eos praesentium laboriosam. Fuga voluptatem nam tenetur sint. Suscipit minima ex commodi placeat. Dolore eos sunt ut rem. Quia inventore ea laboriosam ut. Est placeat sapiente et maxime. Nisi quis consequatur magnam a. Iure odit cum eaque earum. Cupiditate unde dolor sed nisi. Quos eum dolorum illo qui. Occaecati iste molestiae sint aut. Expedita laborum ad tempora non. Eos ut animi est consectetur. Est et in sint neque. Et recusandae molestiae eum iusto. Eaque culpa neque minus vel. Sit dolorem sit suscipit quasi. Et voluptatum odit ex cumque.
-  suspended: 0
-player_48: 
-  team: team_13
-  name: Rhianna Marvin DDS
-  position: Esse dolores voluptatem sapiente magni.
-  number: 656
-  retired: 0
-  injured: 0
-  born_on: "2009-09-26"
-  notes: Voluptas dolores sint nostrum voluptas. Recusandae qui qui fuga porro. Et dolorum numquam hic et. Sapiente doloremque sed eos veritatis. Voluptas dolorem illum a error. Illo quia maiores impedit esse. Ullam ut ducimus qui iusto. Quisquam odit nam et ut. Et magni quidem et ex. Sint quia qui aspernatur modi. Aut voluptatum ut eos ut. Omnis asperiores repudiandae dolorum fugit. Voluptates voluptas dolorem assumenda dicta. Ut nemo dolor cum dolore. Omnis nesciunt vel incidunt eum. Suscipit ab sint odio omnis. Explicabo quidem numquam ab assumenda. Hic reprehenderit natus repudiandae dolor. Earum officiis odio natus ex. Aut et et debitis itaque. Libero deserunt id quia aut. Et quae aut est deleniti. At error enim voluptates nihil. Iste rerum enim temporibus qui. Asperiores enim harum cumque assumenda. Corporis molestiae ipsum non facere. Fuga pariatur voluptatem esse sed.
-  suspended: 0
-player_49: 
-  team: team_32
-  name: Jasper Runolfsson II
-  position: Sapiente blanditiis fugiat est dolore.
-  number: 953
-  retired: 0
-  injured: 0
-  born_on: "2010-03-23"
-  notes: Saepe maxime hic impedit animi. At soluta dolor ut ut. Omnis iusto quibusdam itaque et. Rerum nesciunt omnis doloribus saepe. Possimus error et qui dignissimos. Eum quibusdam iusto quod quasi. Dolorem impedit et reiciendis dolore. Et doloribus rem ut porro. In qui et laborum maxime.
-  suspended: 0
-player_50: 
-  team: team_14
-  name: Graham Flatley
-  position: Reprehenderit ut maxime sed ducimus. Et maxime officiis laboriosam sequi. Ipsa ea recusandae exercitationem et.
-  number: 373
-  retired: 1
-  injured: 1
-  born_on: "2011-03-18"
-  notes: Modi dicta voluptates blanditiis omnis. Reprehenderit unde voluptas rerum reiciendis. Aliquid in sed eum aliquid. Laborum adipisci quo voluptatibus amet. Et voluptatem amet maiores quisquam. Necessitatibus voluptatum consectetur ipsam voluptas. Suscipit nulla repellat dolores quis. Odit qui fugit dicta minima. Unde nam voluptatem sequi omnis. Et molestias et et consequatur. Consectetur quia vel consequatur illum. Impedit consectetur ea hic quia. Consequatur eum molestias consequatur porro. Iste omnis id omnis explicabo. Doloremque maiores laudantium et nihil. Sit sit similique expedita veritatis. Est consequuntur voluptas voluptatem quod. Delectus dolor est reiciendis ex. Occaecati nam voluptas quis dolorem. Non enim inventore praesentium nihil. Dolores qui cumque qui et. Odit fuga aut eius temporibus. Quam consectetur quae nesciunt veritatis. Fugit aspernatur aut quasi debitis. Inventore voluptatem labore autem sit. Est perspiciatis aut non necessitatibus. Quo numquam rerum magni natus.
-  suspended: 0
-player_51: 
-  team: team_27
-  name: Sharon Schneider
-  position: Accusantium neque doloremque quo beatae.
-  number: 415
-  retired: 1
-  injured: 1
-  born_on: "2011-02-26"
-  notes: Quia et eaque ut molestias. Accusantium minima voluptates impedit odio. Qui quia eaque sit dolorem. Libero consequatur reprehenderit quia beatae. Vel et at non facere. Neque tempora qui consectetur eligendi. Porro fugiat earum aut quam. Adipisci totam aut aspernatur ad. Mollitia iusto inventore consectetur quis. Autem dolor doloribus magni eos. Quam magnam corrupti dolorem doloribus. Fugiat quas dolores harum dolorem. Fugit suscipit enim incidunt aspernatur. Blanditiis et rerum voluptatem esse. Voluptas vero modi illo modi. Tempore explicabo quam id error. Facilis mollitia repellat excepturi ratione. Temporibus et natus perspiciatis nesciunt. In voluptatibus eveniet vel dolorem. Vero dolorem placeat quis et. Saepe molestiae quos aspernatur qui. Doloribus et magnam recusandae qui. Omnis fuga id minus non. Ad maxime officiis laborum laudantium. Iure error in hic laudantium. Est voluptatum eaque molestias reiciendis. Quis temporibus quaerat omnis omnis.
-  suspended: 0
-player_52: 
-  team: team_19
-  name: Rasheed Wiegand
-  position: Illum quasi nihil facere magni. Sunt ut impedit labore et. Omnis sapiente consequatur exercitationem in.
-  number: 737
-  retired: 1
-  injured: 1
-  born_on: "2010-08-29"
-  notes: Quos labore veritatis voluptas quia. Rerum aspernatur praesentium assumenda dignissimos. Tempore magnam distinctio enim recusandae. Ut aspernatur doloremque et eum. Voluptas officiis corporis voluptas nihil. Ut dolorum rerum rerum sunt. Qui accusamus et eius repellendus. Voluptates quasi laborum tenetur dolor. Voluptatem quia repudiandae perferendis in. Impedit deserunt explicabo a inventore. Libero sapiente expedita quis voluptatem. Nobis corporis et unde omnis. Nisi nobis tempore sit aut. Ex doloribus quae itaque aliquam. Enim numquam praesentium neque maxime. Eum asperiores voluptates illum id. Totam eaque ut rerum dignissimos. Dignissimos corrupti reprehenderit est minima. Hic non temporibus a iusto. Nostrum neque distinctio vel aut. Quis dicta rerum enim occaecati. Sed cupiditate in et quis. Facilis non pariatur accusantium deserunt. Ab nam dolorum rerum et. Soluta nam dolorem voluptas ad. Eligendi ipsa dolorem harum culpa. Deleniti repudiandae et omnis eligendi.
-  suspended: 0
-player_53: 
-  team: team_21
-  name: Zita Stamm
-  position: Vel eveniet dolores reprehenderit commodi.
-  number: 687
-  retired: 1
-  injured: 0
-  born_on: "2009-04-03"
-  notes: Voluptate consequatur voluptate sed nulla. Nemo quia enim quia debitis. Facilis voluptas non at non. Vero odit qui ea numquam. Nihil voluptates accusantium voluptate commodi. Qui et aut qui est. Recusandae quas quae voluptatum pariatur. Consequatur amet dicta aperiam quaerat. Eum numquam illum repellat enim. Eveniet impedit necessitatibus vel aut. Enim sit sint iusto qui. Iure et velit sed ut. Vitae quasi rerum consequatur praesentium. Pariatur et fugit sequi id. Rerum expedita repellat numquam expedita. Quis officia mollitia incidunt sit. Quidem aut vero quidem culpa. Nulla alias et aut nihil. Veniam sunt molestias saepe dolor. Quisquam laboriosam quaerat nesciunt nesciunt. Voluptas consequatur praesentium unde dolorem. Omnis dolorum expedita sed et. Sint inventore voluptatibus rerum eos. Quas doloremque sint id aut. Consectetur est excepturi corrupti animi. Aut similique distinctio quo quis. Vitae assumenda vel vitae molestiae.
-  suspended: 0
-player_54: 
-  team: team_33
-  name: Ada Steuber
-  position: Et aliquid nisi debitis voluptate. Aut sunt eum blanditiis voluptatem. Eligendi blanditiis tenetur illo doloribus.
-  number: 479
-  retired: 0
-  injured: 1
-  born_on: "2011-02-21"
-  notes: Quia rem et incidunt eos. Sed corrupti totam nulla reiciendis. Exercitationem enim ipsa ipsam excepturi. Repellat odio voluptatem ut in. Eius quia nihil perspiciatis distinctio. Repellat voluptas autem eum doloribus. Culpa officiis voluptas omnis labore. Ut possimus ratione suscipit et. Quidem ut maxime ut minima.
-  suspended: 1
-player_55: 
-  team: team_35
-  name: Jordon Thompson
-  position: Iusto quaerat dicta suscipit qui.
-  number: 667
-  retired: 1
-  injured: 1
-  born_on: "2010-08-26"
-  notes: Id est deserunt commodi incidunt. Eum quaerat et ut doloribus. Quaerat aut praesentium id modi. Quis minima repellat tempore totam. Dolorem rem praesentium sed nisi. Autem quos architecto blanditiis sit. Autem consequatur id exercitationem occaecati. Sint dolor aperiam eum odit. Eveniet ea et excepturi quidem.
-  suspended: 1
-player_56: 
-  team: team_38
-  name: Samantha Blanda
-  position: Qui non molestias iure eveniet.
-  number: 762
-  retired: 0
-  injured: 0
-  born_on: "2009-10-21"
-  notes: Et quibusdam qui exercitationem id. Tempore cumque repudiandae repudiandae sint. Sit aut possimus quam tempora. Eius nobis at in harum. Illo neque quia ex repellendus. Nam provident consequatur velit impedit. Omnis non ut sed ipsum. Debitis distinctio quia praesentium velit. Repudiandae perferendis laboriosam at natus. Aut placeat voluptatum id earum. Saepe fuga ea dignissimos dignissimos. Delectus doloremque enim est qui. Qui esse nulla rerum eum. Culpa mollitia reprehenderit officiis neque. Fugiat est totam quasi hic. Magni consequatur adipisci et consectetur. Cumque harum repellat ullam asperiores. Similique tempore cumque natus quos. Est ullam voluptas mollitia et. Ducimus neque commodi ut omnis. Ut dignissimos rerum dolor totam. Suscipit in explicabo dolor architecto. Officia non qui nam facere. Voluptatem omnis ad suscipit harum. Nam ut deleniti nam perferendis. Qui officiis omnis sit voluptas. Sit provident incidunt animi voluptas.
-  suspended: 1
-player_57: 
-  team: team_30
-  name: Mortimer McLaughlin
-  position: Molestiae deserunt sed recusandae ea. Dignissimos corporis commodi sunt est. Non ducimus ut incidunt velit.
-  number: 791
-  retired: 0
-  injured: 0
-  born_on: "2011-01-17"
-  notes: Alias at dolorum consequuntur odit. Nesciunt dolores possimus dolor eveniet. Eligendi quo veritatis possimus quisquam. Corrupti est ea est voluptas. Omnis rerum animi rerum quisquam. Nisi reprehenderit impedit est recusandae. Nisi necessitatibus molestiae distinctio et. Quia provident enim voluptatem doloribus. Voluptas ut magnam et rerum. Suscipit et asperiores et a. Dolorem voluptas ipsa a illum. Nobis explicabo placeat non dolor. Deleniti laboriosam voluptatibus id eos. In vel voluptatem nam voluptas. Quo eaque quo eum dolor. Molestiae mollitia eos omnis vel. Voluptas excepturi vitae quia qui. Quia laudantium optio excepturi exercitationem. Vel dolor quibusdam quisquam et. Eum error mollitia culpa provident. Optio illo reiciendis velit perspiciatis. Consectetur exercitationem id sunt magni. Et quaerat natus ea id. Rerum qui corrupti reprehenderit facilis. Voluptatum non quia et error. Soluta rerum omnis et fuga. Enim saepe id deleniti tempora.
-  suspended: 1
-player_58: 
-  team: team_3
-  name: Icie Gislason
-  position: Dignissimos fuga itaque quas voluptatum. Est accusantium aspernatur vero voluptas. Omnis sint consequatur veritatis necessitatibus.
-  number: 564
-  retired: 0
-  injured: 0
-  born_on: "2011-02-06"
-  notes: Qui et assumenda et quia. Et sit dolorem quia error. Veniam quia sapiente ab a. Nostrum fugit maxime quas placeat. Cumque possimus sed deserunt tempora. Neque occaecati consequatur dolorem molestiae. Sit quis accusamus veniam aut. Et architecto placeat et a. Eveniet ut laudantium quo asperiores.
-  suspended: 1
-player_59: 
-  team: team_28
-  name: Emely Grant
-  position: Cum non ullam et error. Quo et quidem inventore ut. Optio sunt commodi ducimus veritatis.
+  name: Bridie Kemmer
+  position: Nisi culpa delectus earum fugit. Perspiciatis sunt voluptatum eaque pariatur. Aliquid porro deserunt fuga ea.
   number: 840
-  retired: 1
-  injured: 0
-  born_on: "2011-03-26"
-  notes: Ipsum aut ut vel voluptas. Corrupti eos placeat et velit. Saepe quod quia incidunt corrupti. Ipsam autem libero dolores voluptas. Enim ex reiciendis perspiciatis rerum. Est aut aut est recusandae. Tempora quibusdam id porro laborum. Nihil non modi qui ut. Consequatur distinctio nam atque consequatur. Aut tenetur voluptatem et ad. Asperiores aut dolores aut dolore. Maxime quibusdam aut neque et. Est ipsum quibusdam esse laborum. Nemo quo nostrum dolores ea. Recusandae dicta maiores veritatis ut. Possimus voluptate molestias qui sequi. At rerum voluptas culpa ea. Id harum aliquid nobis qui. Voluptatibus provident rerum expedita quaerat. Ea vitae vitae omnis rerum. Quasi labore non et sed. Sed aut quia sequi modi. Eius voluptatibus sunt ut corporis. Autem est accusantium aut quos. Ab ut veniam et architecto. Et ut voluptatem et est. Quia consequuntur magnam quia quasi.
-  suspended: 0
-player_60: 
-  team: team_34
-  name: Deangelo Bergnaum
-  position: Corporis quasi autem voluptas dolores.
-  number: 875
-  retired: 1
-  injured: 0
-  born_on: "2010-01-06"
-  notes: A reprehenderit et laudantium placeat. Vel odio aut delectus eligendi. Possimus dolorem sed aperiam quo. Rerum id qui facere rerum. Velit quod culpa sed quasi. Sint maxime inventore id unde. Iste repudiandae magnam doloribus sunt. Sit laudantium explicabo ut vero. Dolorum id delectus omnis est. Esse quas exercitationem magnam consequatur. Esse quia unde odio animi. Ducimus sint porro qui quo. Reprehenderit nihil sequi temporibus consequatur. Repudiandae eligendi quia totam molestiae. Ut velit officiis suscipit quidem. Aspernatur ipsa eveniet iure rerum. Qui eveniet sapiente et sapiente. Sapiente eum qui est sunt. Perspiciatis hic quia et quaerat. Nemo tempore natus eos sit. Animi voluptas doloremque amet ut. Accusamus inventore repellat rerum impedit. Sunt quas autem explicabo blanditiis. Rerum sint atque dolore ut. Officia quibusdam molestiae autem voluptatem. Officiis ea facere voluptatem et. Voluptas dolores et voluptas et.
-  suspended: 0
-player_61: 
-  team: team_22
-  name: Jefferey O'Hara
-  position: Sint laudantium vero et rem. Sed assumenda minus ut qui. Voluptatem eum et est et.
-  number: 464
-  retired: 0
-  injured: 1
-  born_on: "2009-12-06"
-  notes: Voluptatem aperiam rerum quia qui. Dolores est incidunt facilis fugiat. Neque aliquam consequatur fuga hic. Mollitia placeat culpa vel sed. Libero atque id perferendis tempora. Consequatur amet quibusdam ullam rerum. Ut suscipit quas qui et. Sit voluptatum minima et totam. Enim quisquam ut asperiores neque. Voluptas eaque et recusandae quia. Occaecati occaecati hic repellat recusandae. Animi ratione praesentium quae necessitatibus. Corrupti facilis reiciendis minus veritatis. Asperiores ipsum nobis aliquid qui. Dignissimos optio cupiditate pariatur eos. Et et quo recusandae doloribus. Nemo aut accusantium reprehenderit nemo. Voluptatem rem est aperiam alias. Sed similique a veritatis ipsam. Ut itaque consequatur illo expedita. Quos adipisci accusamus unde est. Similique consequatur est ratione velit. Accusantium aut dignissimos porro ea. Voluptatem ad sit ipsum porro. Earum vel adipisci velit sunt. Aut ut eaque quis omnis. Et saepe corrupti asperiores nisi.
-  suspended: 0
-player_62: 
-  team: team_31
-  name: Alice Cole
-  position: Corporis nobis sed voluptas porro.
-  number: 443
-  retired: 0
-  injured: 0
-  born_on: "2010-06-30"
-  notes: Aut occaecati ea provident voluptates. Ipsam alias totam sint est. Nostrum dignissimos enim doloribus dolore. In odio neque voluptas aut. Ea facilis ut pariatur consectetur. Rerum rem dolore ex vero. Minus nemo nemo ea ut. Quasi adipisci quasi labore vero. Velit et commodi assumenda soluta.
-  suspended: 1
-player_63: 
-  team: team_14
-  name: Zachariah McLaughlin
-  position: Est in quia sed et.
-  number: 218
-  retired: 0
-  injured: 1
-  born_on: "2010-12-04"
-  notes: Officia eveniet consequuntur voluptates aut. Dolore corrupti dolor eos nemo. Temporibus iusto voluptas enim quis. Sed voluptate maiores quis et. Molestiae aut consectetur nostrum ut. Et qui aperiam quas repudiandae. Repudiandae voluptatem illum rerum deserunt. Aliquam odit qui recusandae quam. Eius praesentium dolorem ad corporis.
-  suspended: 1
-player_64: 
-  team: team_31
-  name: Leola Koepp
-  position: Est ratione aliquid facilis sed.
-  number: 379
-  retired: 1
-  injured: 1
-  born_on: "2010-05-10"
-  notes: Accusantium consequatur et accusamus incidunt. Veniam architecto rem dolores est. Quo ab fugit modi quaerat. Ab repellat qui ut mollitia. Sapiente quasi et tempora excepturi. Voluptas quae eaque natus ullam. Quia occaecati ut et laborum. Enim et rerum assumenda aliquid. Voluptatem deleniti rerum saepe cupiditate. Accusantium ducimus veniam amet praesentium. Sed tempora architecto libero et. Repellendus dolore veritatis sint et. Eos at consequatur officiis aperiam. Dolorum aut nobis dolores dignissimos. Perferendis autem unde tempora et. Exercitationem temporibus vero necessitatibus voluptas. Quod quo autem eos nemo. Nesciunt facere soluta cumque maxime. Quia accusantium minima quisquam neque. Natus accusantium non qui alias. Possimus nobis numquam quidem doloribus. Harum sint aut aut sed. Totam corporis sit asperiores reprehenderit. Doloribus quis fugit suscipit dignissimos. Natus atque illo sint dolores. Nihil dolore odit eos est. Occaecati et quam praesentium enim.
-  suspended: 1
-player_65: 
-  team: team_5
-  name: Monroe Gutmann
-  position: Quia eos laboriosam ex nulla. Magnam voluptatem consequatur velit quaerat. Minima nostrum id dolor in.
-  number: 36
-  retired: 1
-  injured: 1
-  born_on: "2009-09-26"
-  notes: Adipisci vel laudantium porro ipsa. Corrupti sequi dolorem quam facilis. Possimus minus sequi quo reprehenderit. Odit consequuntur aspernatur et velit. Ea consequatur fugiat voluptatum architecto. Id ut culpa hic aut. Dolores aliquam molestias eveniet necessitatibus. Repudiandae libero accusantium numquam ipsam. Ab rem nihil beatae velit. Sed iusto dolorem dolor est. Nihil laboriosam possimus vel libero. Rerum qui nesciunt animi sit. Officia aut distinctio id reprehenderit. Velit debitis impedit in omnis. Voluptatem similique dolorum at porro. Aut laboriosam dolore enim quaerat. Quisquam ex sint ea molestiae. Et voluptatem ab amet voluptatem. Consectetur earum dolores aut sed. Cupiditate harum quidem doloremque at. Excepturi rerum vel optio ipsam. Doloremque vel quae ipsam voluptatem. Sunt ea et voluptate eveniet. Qui tempora velit voluptas quas. Sint nemo explicabo libero corrupti. Laboriosam iusto voluptas perspiciatis debitis. Iusto est quo molestiae autem.
-  suspended: 1
-player_66: 
-  team: team_8
-  name: Lisandro Murazik
-  position: Quibusdam hic maiores sunt et. Rerum doloribus repellat cum consequatur. Sint nulla numquam quia doloribus.
-  number: 521
-  retired: 1
-  injured: 0
-  born_on: "2010-09-27"
-  notes: Quibusdam minus tenetur et unde. Quam magni officiis temporibus est. Non aperiam quis consequatur adipisci. Dolor eligendi ea inventore culpa. Quia non distinctio laboriosam eos. Itaque delectus quisquam officiis harum. Ut repellendus et est autem. Sed aut ipsa dignissimos facere. Mollitia aut totam quae modi.
-  suspended: 0
-player_67: 
-  team: team_7
-  name: Quincy Heaney V
-  position: Corporis delectus fugiat consequatur aut.
-  number: 287
-  retired: 1
-  injured: 0
-  born_on: "2010-11-26"
-  notes: Eius sapiente aspernatur quia non. Dolorum reprehenderit ea optio ratione. Veniam eum nisi quis inventore. Accusantium rerum labore doloribus id. Doloremque rerum delectus accusamus aut. Vitae unde facilis ducimus totam. Deleniti quasi mollitia dolor adipisci. Incidunt totam debitis vel quod. Qui blanditiis maiores cum aut.
-  suspended: 1
-player_68: 
-  team: team_4
-  name: Liza Shields
-  position: Hic est omnis enim laboriosam.
-  number: 378
-  retired: 1
-  injured: 0
-  born_on: "2010-01-10"
-  notes: Molestiae provident quo harum tempore. Consectetur commodi non vel at. Quos et voluptatum vero adipisci. Nulla assumenda magni fugit numquam. Ducimus nihil molestias alias repudiandae. Necessitatibus dolor magnam aspernatur et. Animi quos est distinctio vel. Qui quis nemo omnis ex. Autem qui sapiente in reprehenderit. Commodi necessitatibus nesciunt consequatur sunt. Quis eius et molestiae quas. Eum dolorum iure iure rerum. Laborum magnam aliquam sint accusamus. Eius quia occaecati distinctio dolore. Aut repudiandae consequuntur magni molestiae. Deserunt et omnis amet occaecati. Ipsam sed culpa ratione quibusdam. Officiis similique tempore ea molestiae. Repellendus vero sapiente exercitationem sed. Debitis aut est qui omnis. Architecto tempora est quod est. Esse natus ab sunt officia. Est tenetur officiis beatae dolores. Blanditiis dolores consequuntur velit recusandae. Nostrum et ex possimus dolores. Porro mollitia assumenda quis temporibus. Ut ut qui nemo eius.
-  suspended: 1
-player_69: 
-  team: team_13
-  name: Dr. Vivien Kulas
-  position: Eligendi sint qui optio occaecati.
-  number: 200
-  retired: 1
-  injured: 1
-  born_on: "2010-07-27"
-  notes: Eos soluta voluptatem nobis quis. Harum minus inventore facilis eligendi. Reprehenderit nostrum ratione repellendus qui. Sunt molestias dolorem ut illo. Porro sequi natus corporis et. Natus est quidem voluptas quae. Sit quod cum tempore est. Autem rerum magni quis nobis. Est atque quaerat libero voluptatem.
-  suspended: 1
-player_70: 
+  retired: "true"
+  injured: "true"
+  born_on: "2011-03-08"
+  notes: Blanditiis commodi architecto aut architecto. Dicta labore qui iure reprehenderit. Sed nulla officiis excepturi eos. Quasi velit sint dolore quam. Sunt non enim quasi tenetur. Quia laborum doloribus eaque consectetur. Est est omnis at ullam. Suscipit aperiam ea eius maxime. Voluptatum id perspiciatis praesentium dolorem.
+  suspended: "false"
+player_2: 
   team: team_12
-  name: Oceane Torp
-  position: Autem quis esse omnis qui. Aliquam a animi praesentium debitis. Nemo dolorem ex quo sequi.
-  number: 748
-  retired: 1
-  injured: 1
-  born_on: "2010-12-13"
-  notes: Repellat at in sapiente consequatur. Debitis nobis maxime repellat et. Id rerum error quo aperiam. Quaerat inventore in quia facilis. Veniam velit consequatur ipsam officiis. Doloribus corrupti suscipit aut sint. Accusantium neque aut nihil nam. Molestias et dolorem necessitatibus doloribus. Repellendus eligendi porro et sed.
-  suspended: 1
-player_71: 
-  team: team_10
-  name: Nicholas Sporer
-  position: Velit ratione non itaque iure. Consequatur non dolor in laboriosam. Enim quae voluptas quas et.
-  number: 122
-  retired: 0
-  injured: 1
-  born_on: "2010-07-13"
-  notes: Nihil voluptatem aliquam sunt dolorem. Autem reprehenderit voluptate quod et. Dolores explicabo voluptatum non molestiae. Qui repellendus necessitatibus iure error. Mollitia occaecati modi sit rerum. Quod assumenda asperiores esse laudantium. Qui quaerat et quasi fugit. Et soluta eos dolorem non. Reiciendis et quia ab quia. Incidunt voluptatibus et quia consequatur. Assumenda voluptatem impedit fugiat qui. Dolore et repellendus nisi debitis. Distinctio asperiores occaecati officia omnis. Qui tenetur consequatur praesentium ipsa. Minus odit dolor est deleniti. Nesciunt perferendis aut autem vel. Dolorum aut ipsam pariatur repudiandae. Ratione consequatur eum est similique. Dolorum possimus molestiae ut facere. Expedita in est quia eos. Quasi corporis est et quaerat. Voluptatum perspiciatis dolor et ea. Ad voluptatem iusto id nemo. Consequatur nemo accusamus velit dolorem. Sapiente quae nulla sunt voluptas. Ut dolorem itaque cum porro. Autem id dolor eos quam.
-  suspended: 0
-player_72: 
-  team: team_19
-  name: Beatrice Stroman
-  position: Maiores rerum explicabo quam dolore. Ipsam quibusdam voluptas ea reiciendis. Officiis at ad totam maxime.
-  number: 477
-  retired: 0
-  injured: 1
-  born_on: "2009-06-19"
-  notes: Ducimus ut iste vitae non. Nesciunt rerum repellat quia exercitationem. Nulla consectetur quia harum soluta. Qui et praesentium facilis accusamus. Fugiat excepturi est dolorum quasi. Iure officiis animi aut earum. Eum commodi nisi quo vel. Aut consequatur perspiciatis architecto dolorem. Pariatur odit beatae voluptate atque. Dolor laudantium eum aliquam molestiae. Est et inventore velit error. Doloremque excepturi necessitatibus non ex. Officiis aliquam earum amet asperiores. Ut neque iusto quo in. Soluta veniam enim eos earum. Dolore voluptates veniam a ea. Reprehenderit quasi et unde quis. Unde ut repellat dolorem ipsum. Qui officia consequatur vel quam. Tempora eum non ab ut. Voluptates ad id ratione repellendus. Placeat fuga tempore quia et. Enim expedita aspernatur impedit quisquam. Ut non repellendus a eligendi. Quia aut reiciendis maiores maxime. Id cupiditate voluptatem dolores repellendus. Nihil minus et et et.
-  suspended: 1
-player_73: 
-  team: team_24
-  name: Veronica Hegmann
-  position: Dolores odit sed inventore vel.
-  number: 506
-  retired: 1
-  injured: 0
-  born_on: "2010-07-15"
-  notes: Accusamus deleniti aliquid voluptatem et. Ut enim voluptatum molestiae aut. Aut voluptatibus quisquam quaerat dolor. Et nulla saepe et maiores. Aut nihil quod velit nesciunt. Expedita ea consequatur et fugit. Eum assumenda mollitia nemo et. Suscipit atque enim temporibus ipsam. Aut aut soluta molestias sit.
-  suspended: 1
-player_74: 
-  team: team_26
-  name: Etha Wiza
-  position: Rerum eaque repudiandae qui similique.
-  number: 520
-  retired: 1
-  injured: 1
-  born_on: "2009-10-22"
-  notes: Modi optio aut consequatur quam. Molestiae optio eaque dolorem pariatur. Dolores qui laudantium ut nobis. Optio incidunt hic nihil hic. Mollitia deserunt quia voluptates qui. Nostrum voluptatibus et sapiente sit. Necessitatibus exercitationem quis magni officiis. Accusamus sint est molestiae sed. Aut velit corrupti cupiditate perferendis. At ratione commodi maiores voluptates. Explicabo est dolorem consequatur in. Cum qui expedita blanditiis tempore. Facilis autem laudantium quis sit. Labore dolorem accusantium nihil accusantium. Minima natus debitis natus saepe. Dolor error non optio cum. Vel maxime fuga dicta ratione. Velit est dolorem quia ut. Eos et eius laborum quidem. Veritatis ipsa doloribus dolorum quasi. Occaecati saepe molestiae quia quia. Sit tempora ut assumenda non. Explicabo sed impedit aut exercitationem. Id aut repudiandae sint alias. Et culpa esse voluptatem nisi. Voluptatem reiciendis voluptatem et eveniet. Facere velit veritatis quae sit.
-  suspended: 1
-player_75: 
-  team: team_0
-  name: Domenica McGlynn
-  position: Minus sint molestiae sunt hic.
-  number: 195
-  retired: 1
-  injured: 1
-  born_on: "2011-02-16"
-  notes: Sed repudiandae est dolor sit. Nesciunt nesciunt qui repellat et. Sed error voluptatem inventore et. Et ut sed voluptates ut. Dolores incidunt omnis libero asperiores. Debitis recusandae dolorum quibusdam repellendus. Possimus facere necessitatibus recusandae sit. Quia voluptates quidem molestiae distinctio. Nisi sint illo consequatur ullam. Ut natus impedit qui ipsa. Delectus esse explicabo iure et. Debitis vitae molestiae perferendis est. Quia perferendis corporis enim et. Dolor velit molestiae quia et. Eum maiores autem voluptas quam. Quas cumque aperiam rerum ad. Expedita quisquam sunt ad deserunt. Quia harum quas voluptatem doloremque. Autem perferendis nesciunt voluptatum autem. In molestiae sed occaecati voluptas. Veritatis consequatur maxime repellendus aut. Beatae aut at maiores corrupti. Omnis necessitatibus error cumque aut. Ullam quas unde non inventore. Non quisquam consequuntur saepe recusandae. Consequatur ea in molestiae rerum. Quis error non eveniet dolorum.
-  suspended: 1
-player_76: 
-  team: team_17
-  name: Tania Fadel
-  position: Quae ut cum aut fugit. Voluptatum quidem laborum facilis beatae. Velit fugiat veritatis est et.
-  number: 127
-  retired: 0
-  injured: 1
-  born_on: "2009-08-20"
-  notes: Quaerat quidem labore ut veritatis. Ipsum laboriosam beatae porro ullam. Impedit id vero recusandae voluptas. Aut reiciendis necessitatibus qui et. Doloremque ut dignissimos voluptas labore. Quisquam quo ut id dolore. Provident dolorem dignissimos error ipsa. Reprehenderit magnam soluta culpa sapiente. Blanditiis esse qui ducimus omnis.
-  suspended: 1
-player_77: 
-  team: team_10
-  name: Ariane Kutch
-  position: Et mollitia velit excepturi illum.
-  number: 513
-  retired: 0
-  injured: 1
-  born_on: "2010-02-11"
-  notes: Nulla illo saepe porro ipsam. Qui reiciendis laborum fugiat eum. Et tempora culpa beatae voluptas. Non suscipit consequatur rerum nihil. Qui laboriosam vel ut exercitationem. Ea non vero officia expedita. Id error omnis rerum in. Laudantium consequatur aut voluptatum omnis. Eos saepe velit cumque nisi.
-  suspended: 0
-player_78: 
-  team: team_33
-  name: Virginia Hammes
-  position: Et temporibus aut voluptatem harum. Mollitia aliquid error quae dolorem. Consequuntur non veritatis libero consequatur.
-  number: 79
-  retired: 1
-  injured: 1
-  born_on: "2011-01-29"
-  notes: Voluptatem vel id accusamus magni. Reiciendis rerum placeat est aspernatur. Voluptatum et et necessitatibus ut. Corrupti impedit qui dicta tenetur. Iusto rerum debitis est et. Laboriosam est blanditiis ut consectetur. Dolorum cupiditate quo consectetur harum. Impedit cupiditate quia voluptatem corrupti. Est et quisquam ullam fugiat.
-  suspended: 1
-player_79: 
+  name: Roman Bode
+  position: Doloribus similique dolor adipisci pariatur. Quia vel reprehenderit corporis et. Veniam quis ab libero corporis.
+  number: 219
+  retired: "false"
+  injured: "true"
+  born_on: "2010-05-03"
+  notes: Ex aut enim porro et. Porro dolores minus est enim. Voluptatem nobis perspiciatis fugit eos. Repellat ipsa non mollitia sit. Ut qui sint nostrum ut. Quo sint dolorem sunt ut. Eum voluptas quaerat molestias omnis. Autem harum perspiciatis doloribus quis. Rerum eaque tempore qui ut. Nihil quae voluptatem sequi rem. Dignissimos omnis et veritatis aut. Quam recusandae ut praesentium architecto. Aut et ad est voluptatum. Accusantium officia est exercitationem libero. Mollitia ad explicabo voluptas harum. Rem et assumenda nisi id. Eaque beatae deleniti ad perspiciatis. Quia et esse animi qui. Nostrum at aut praesentium eos. Inventore minus aut omnis maxime. Nam officia quidem vel nihil. Quia ipsa inventore iste blanditiis. Quaerat amet qui quia dolores. Nostrum perspiciatis praesentium tenetur cumque. Eos qui iusto praesentium eum. Quidem magni nam dolores delectus. Accusamus autem voluptatum consequatur dicta.
+  suspended: "false"
+player_3: 
+  team: team_28
+  name: Jean Fahey IV
+  position: Ea et mollitia qui eum.
+  number: 93
+  retired: "true"
+  injured: "false"
+  born_on: "2010-01-23"
+  notes: Odit explicabo recusandae delectus illum. Rerum quidem dolore et non. Et et consequatur est iste. Aut itaque consequatur magnam omnis. Nulla voluptatem repudiandae rerum hic. Recusandae consequatur et dolores quam. Sed odio pariatur excepturi laudantium. Placeat voluptatem repudiandae iusto consectetur. Dolorem in alias dolores odio. Consequatur et voluptates cum consequatur. Voluptatem voluptate rerum inventore magni. Aut ut est nihil unde. Aliquid molestias reprehenderit omnis nihil. Occaecati omnis nam sed ipsum. A sint voluptas asperiores est. Quod dolores et et alias. Accusantium consectetur architecto porro eos. Eaque dolorum illo molestiae ex. Fuga fuga id quia modi. Et ipsa et totam inventore. Omnis quisquam hic omnis rerum. Error quos nisi rerum vel. Ut et natus qui sit. Iusto qui quis consequuntur architecto. Nostrum iure eaque sunt aperiam. Quod et beatae maxime necessitatibus. Magnam tempora non vel accusamus.
+  suspended: "true"
+player_4: 
+  team: team_14
+  name: Wilfredo Conroy
+  position: Ea quis sit quia magni. Minus at qui aspernatur et. Sit quia culpa necessitatibus sit.
+  number: 670
+  retired: "true"
+  injured: "true"
+  born_on: "2009-06-26"
+  notes: Optio in occaecati mollitia reprehenderit. Eum beatae nulla consequatur dolorem. Nesciunt et aut maxime inventore. Dolorum necessitatibus reiciendis doloribus repellat. Minus quaerat ex non est. Maiores minima aperiam quo pariatur. Consequuntur ut ut voluptate qui. Ut eius reiciendis sit omnis. Modi repellendus officiis ex rerum. Ad architecto voluptatem rerum a. Laborum exercitationem eum sed minus. Non alias qui esse facere. Voluptatem molestiae inventore ipsam incidunt. Assumenda enim quam quasi explicabo. Aut qui voluptatem est qui. Animi soluta unde quis ab. Eaque animi recusandae natus error. Ex et aut nemo quae. Odit eos maxime repellendus aliquid. Eaque quos odio distinctio est. Accusantium molestiae rerum aliquid consequatur. Veniam ea animi laudantium magnam. Aliquam dolorem soluta incidunt et. Ea consequuntur inventore fugiat libero. Sed voluptatem aperiam placeat soluta. Esse voluptatem impedit libero quis. Explicabo ut beatae harum qui.
+  suspended: "true"
+player_5: 
+  team: team_29
+  name: Keira Walker
+  position: Rerum qui non molestias earum. Architecto et est cumque sunt. Et voluptates molestiae et repellat.
+  number: 144
+  retired: "false"
+  injured: "false"
+  born_on: "2011-01-06"
+  notes: Sunt expedita non nobis iste. Quaerat pariatur fugiat labore nostrum. Qui magni at eaque temporibus. Non ducimus sit voluptas similique. Adipisci ut provident repudiandae quod. Hic culpa voluptatem nostrum dolorem. Earum quibusdam magni nam culpa. Aperiam consequuntur a atque cupiditate. Recusandae et labore officia sit. Est autem aperiam aperiam consequatur. Porro voluptatem totam molestiae rerum. Reiciendis et et error consequatur. Enim et consequatur explicabo animi. Incidunt ut a commodi vitae. Alias beatae deserunt quidem veniam. Expedita facere rem ut voluptate. Et officia eos quibusdam voluptatem. Sint doloremque exercitationem recusandae atque. Quisquam sequi magnam accusantium veritatis. Eligendi corporis aut ullam saepe. Voluptate voluptatum et nemo est. Quia laboriosam ullam et ab. Aut exercitationem non facilis aut. Nostrum cumque qui laboriosam et. Necessitatibus reprehenderit velit eos aut. A sed voluptatem ea ea. Asperiores facilis dolore hic accusamus.
+  suspended: "true"
+player_6: 
+  team: team_6
+  name: Miss Amos Farrell
+  position: Dicta laborum tenetur adipisci sed. Nulla qui laudantium et unde. Corporis eos et iste iusto.
+  number: 407
+  retired: "true"
+  injured: "false"
+  born_on: "2010-06-03"
+  notes: Adipisci accusamus nihil hic voluptas. Illum ut itaque laboriosam et. Consequatur beatae odit cupiditate maiores. Ut voluptate ut excepturi quibusdam. Quis fugit a et quia. Optio quia eos magnam facere. Voluptatem doloremque ut modi dignissimos. Ratione sit sed aut nostrum. Earum sed deleniti voluptas ex.
+  suspended: "false"
+player_7: 
   team: team_2
-  name: Nicolette Swaniawski
-  position: Est natus alias earum illo.
-  number: 538
-  retired: 0
-  injured: 1
+  name: Afton Hintz
+  position: Dolorum quibusdam eligendi est necessitatibus.
+  number: 175
+  retired: "false"
+  injured: "true"
+  born_on: "2010-10-25"
+  notes: Sunt in est aut sint. Rerum minus reiciendis veritatis magni. Soluta quaerat animi sed reprehenderit. Beatae ipsum doloribus dicta exercitationem. Voluptatibus quia optio quae facilis. Est non cupiditate omnis voluptas. Repellendus vitae ullam modi voluptate. Quis aliquid aut voluptatem qui. Voluptate sint sed aspernatur ducimus. Quae natus animi molestias non. Saepe doloremque qui corrupti amet. Non perferendis autem porro impedit. Eligendi qui in omnis cupiditate. Perferendis eaque architecto fugiat placeat. Ipsam id quas id amet. Quaerat non eveniet mollitia quos. Adipisci magnam accusantium vitae veniam. In molestiae molestias omnis et. Minus ea repudiandae quasi ea. Non sint eum eum vero. Tempora vitae enim doloremque eos. Consectetur impedit et molestiae odit. Quia labore illo sunt enim. Mollitia natus consequatur ea ipsa. Vel quia sunt laboriosam occaecati. Est et quos nobis impedit. Impedit temporibus est reiciendis temporibus.
+  suspended: "true"
+player_8: 
+  team: team_15
+  name: Ed Rowe
+  position: Ipsum tempore illum ducimus beatae. Porro praesentium laborum ea quasi. Quam ut porro eaque ipsa.
+  number: 178
+  retired: "true"
+  injured: "true"
+  born_on: "2010-09-14"
+  notes: Dolorem dolorem maxime autem distinctio. Ipsa aspernatur accusantium molestias et. Sed ad totam voluptatem harum. Ad aliquam ut inventore totam. Laudantium asperiores velit voluptatem sed. Voluptate dolores quas corporis minus. Dicta modi cumque repellendus quae. Nemo esse impedit nihil quos. Autem pariatur atque qui delectus. Sint sunt aut dicta numquam. Aperiam inventore quos voluptas qui. Unde ipsum ut libero qui. Quam et quas voluptatem deleniti. Perspiciatis officia nam atque quos. Omnis ipsa et adipisci eum. Quasi ratione et ut accusantium. Ut non repellat facere ducimus. In qui quia ullam ipsa. Inventore ut soluta magnam est. Qui dolore dolorum blanditiis autem. Eaque eius nesciunt nulla et. Qui sint ut qui harum. Voluptas temporibus aut placeat maxime. Qui molestiae est quam qui. Neque dicta fuga labore et. Sit sed fugit quas ducimus. Harum et dolorem eos illum.
+  suspended: "false"
+player_9: 
+  team: team_8
+  name: Jessy Bogisich
+  position: Dignissimos rerum modi est fugit.
+  number: 849
+  retired: "false"
+  injured: "true"
+  born_on: "2010-12-09"
+  notes: Quos quibusdam consectetur quia voluptate. Molestiae omnis sunt tenetur dignissimos. Iure fuga est quae iste. Culpa corporis voluptatem consectetur pariatur. Harum qui dolorem enim eius. Animi laboriosam quis dolorum commodi. Dolorem nemo nam cumque dignissimos. Eaque dicta nesciunt aut sed. Aliquid qui omnis nobis temporibus.
+  suspended: "false"
+player_10: 
+  team: team_7
+  name: Lou Berge
+  position: Ut earum pariatur provident ratione. Illo expedita iste sapiente aliquam. Sit dolorem provident laborum ab.
+  number: 308
+  retired: "true"
+  injured: "true"
+  born_on: "2010-01-06"
+  notes: Asperiores ex porro suscipit sed. Sed accusantium quis quasi iusto. Sed omnis aut qui officia. Architecto vero id veritatis quo. Occaecati deleniti repudiandae qui accusantium. Voluptatem nihil odit vel minima. Quis qui sint ut et. Quia tenetur consequatur quia cumque. Similique illo dolor quo rem. Laudantium inventore est culpa qui. Veniam molestiae aliquid officia commodi. Molestiae sunt omnis nihil aspernatur. Necessitatibus fugit minima aut aut. Voluptate odio molestiae odit nobis. Eos quia quaerat dolorem ducimus. Harum earum facere sed in. Velit nihil ipsam et qui. Est est impedit sit maiores. Nihil ullam sit veritatis quia. Ut omnis aliquam aut distinctio. Reprehenderit quia iusto deleniti laboriosam. Voluptates fuga ea quod eos. Et saepe possimus laudantium perspiciatis. Quod sit sed dignissimos modi. Et rerum facere architecto qui. Quidem ut tempore eaque qui. Quae veritatis possimus at cupiditate.
+  suspended: "true"
+player_11: 
+  team: team_16
+  name: Dejuan Gerlach
+  position: In repellendus ut reiciendis ut. Soluta fuga eos alias tenetur. Quos asperiores rem laboriosam voluptate.
+  number: 433
+  retired: "false"
+  injured: "true"
+  born_on: "2010-04-19"
+  notes: Non velit commodi veniam impedit. Illo rerum vel iusto aliquid. Quia ab qui sint perferendis. Sequi ea et ratione ea. Et et nobis dolor soluta. Voluptas possimus expedita provident ex. Omnis non saepe atque eius. Ut qui ut non veritatis. A fugiat deleniti unde ullam. Aperiam voluptas laudantium non at. Quae in tenetur quia similique. Qui omnis molestias eligendi necessitatibus. Dolorem similique perferendis earum quos. Dolorem voluptatem sit quidem voluptatem. Labore et incidunt ullam molestiae. Ab ut fugiat sequi laboriosam. Quis maiores labore et vel. Voluptates nihil ut voluptas quis. Ipsam eum voluptas maiores dolorem. Necessitatibus laboriosam mollitia ut ullam. Minus et consequatur et voluptates. Id animi officiis hic illum. Nostrum doloremque ut voluptatum rerum. Minima quaerat architecto repellendus necessitatibus. Id ratione facilis provident et. Dignissimos magnam ut eum necessitatibus. Incidunt perspiciatis impedit ipsam quaerat.
+  suspended: "false"
+player_12: 
+  team: team_18
+  name: Ms. Rafael Durgan
+  position: Dignissimos consectetur quas quaerat ad.
+  number: 810
+  retired: "false"
+  injured: "false"
+  born_on: "2009-12-23"
+  notes: Rerum omnis enim sint qui. Necessitatibus soluta nemo dolor reiciendis. Voluptatem est natus quidem excepturi. Eos tempore commodi iusto laboriosam. A ut cum recusandae consequatur. Impedit blanditiis repellat beatae assumenda. Tempore quisquam magnam fugit veniam. Neque minus esse omnis dolore. Praesentium repellendus expedita odio tempore. Voluptas velit aut illum corporis. Ea aut et molestiae saepe. Rerum quia non velit vitae. Culpa occaecati dolorum odit dolorem. Mollitia iusto facilis omnis qui. Similique quaerat quis voluptatem corrupti. Non sed quis aut commodi. Neque earum natus laboriosam aperiam. Quia harum non provident voluptas. Aut ipsum ea sunt quia. Ut maiores doloribus est et. Enim qui voluptas dolorum et. Qui quae et eos quae. Omnis voluptatem dolorem cum aut. Eligendi natus molestiae omnis quia. Aut molestiae eius perspiciatis doloremque. Voluptatem similique culpa enim officiis. Suscipit qui occaecati est necessitatibus.
+  suspended: "true"
+player_13: 
+  team: team_23
+  name: Felix Parker
+  position: Autem ea quos consequuntur voluptatem. Sed cumque animi est voluptates. Enim voluptates consequuntur optio harum.
+  number: 13
+  retired: "true"
+  injured: "true"
+  born_on: "2010-04-15"
+  notes: Omnis odio quae tempora fugit. Et sunt officiis corrupti aliquid. Nulla perspiciatis nesciunt est praesentium. Ut doloremque a est sunt. Voluptas iure veniam voluptatem culpa. Harum ratione aut totam fugit. Aliquam optio beatae maiores magni. Et ut ex voluptatem ut. Deserunt accusamus architecto eveniet dolor.
+  suspended: "false"
+player_14: 
+  team: team_1
+  name: Destinee Feest
+  position: Ut ab tempore magnam quia. Expedita iure quibusdam quis ea. Cupiditate quo animi ut at.
+  number: 9
+  retired: "false"
+  injured: "true"
+  born_on: "2010-09-24"
+  notes: Ipsa in voluptatum ut quos. Natus necessitatibus expedita corrupti repellat. Quae sed labore blanditiis et. Dolores sit minima incidunt inventore. Animi eum id rerum nobis. Dolor nulla enim eos officiis. Harum error voluptas magnam dicta. Aut et dolorum qui sapiente. Nostrum sequi aspernatur ea nostrum. Nihil molestiae earum qui eos. Aut eum nisi quae nesciunt. Ut quod dolor rerum provident. Beatae occaecati ab qui quia. Provident tempora cum totam cupiditate. Eum sed ratione a asperiores. Est voluptatem aut quia temporibus. Officiis nisi perspiciatis reprehenderit magni. Voluptas incidunt fugit quia ad. Nulla aliquam inventore voluptatibus dolorum. Est veritatis pariatur recusandae repudiandae. Perspiciatis temporibus dolorum delectus labore. Rerum modi velit ut exercitationem. Iure vel culpa quisquam aut. Illum nobis cupiditate molestiae quisquam. Similique aspernatur qui est ullam. Assumenda et incidunt mollitia sunt. Omnis qui laboriosam odit incidunt.
+  suspended: "false"
+player_15: 
+  team: team_21
+  name: Darron Kreiger
+  position: Excepturi reiciendis delectus nihil a. Omnis labore cupiditate tempore soluta. Tempora non beatae modi ea.
+  number: 342
+  retired: "true"
+  injured: "false"
+  born_on: "2010-03-01"
+  notes: Odit possimus vel rerum dolorem. Aut nihil ratione vel aut. Excepturi non dolor voluptatem in. Consequatur aliquam eveniet rerum aut. Culpa ut quo totam molestiae. Repudiandae porro ut voluptatem similique. Facere iusto esse molestiae recusandae. Mollitia repellendus eligendi voluptatem delectus. Sit corporis vel nisi veritatis. Recusandae dolores enim error earum. Laborum quia aut nihil molestiae. Et qui repellendus dolorem laboriosam. Aut eum inventore tempore officiis. Dolorem quidem non veniam necessitatibus. Qui suscipit recusandae odit blanditiis. Aut et aut nostrum quae. Odit atque aut et hic. Nihil omnis expedita dolor enim. Adipisci ut et numquam numquam. Dolores deserunt a unde nisi. Iure blanditiis laboriosam nulla cum. Et deserunt consequatur quo sit. Minus labore voluptate iste vel. Blanditiis fugiat sed architecto magni. Eos cupiditate corrupti minima quia. Quia illo aspernatur consequuntur eaque. Accusantium sunt et hic autem.
+  suspended: "false"
+player_16: 
+  team: team_13
+  name: Morton Schuppe
+  position: Natus quo ea dolorem vel.
+  number: 343
+  retired: "false"
+  injured: "false"
+  born_on: "2010-02-08"
+  notes: Voluptatibus error et qui atque. Ea sit quo delectus inventore. Voluptas dolorem ipsum eum est. Cum rerum deserunt culpa totam. Provident magni minus doloremque voluptatem. In impedit hic dignissimos et. In quos minus quia recusandae. Unde ab vel at aut. Occaecati neque dignissimos est eos. Et accusamus quia aut ipsa. Nesciunt minima et repellat quo. Voluptas voluptatem ut provident dolorem. Temporibus voluptates similique ut iure. Repudiandae rerum iste laboriosam doloremque. Minus culpa sint id laudantium. Quas sunt consequatur animi minima. Commodi libero delectus accusantium culpa. In rerum dolor consequuntur nisi. Suscipit quia culpa exercitationem sunt. Porro et consequuntur ut ut. Dolor qui qui iste sequi. Sit sit voluptatem consectetur expedita. Similique consequatur et qui ducimus. Sit magni at atque dolorum. Placeat itaque ea eligendi amet. Voluptatem est ut nam dolor. Vero fugit debitis sed et.
+  suspended: "true"
+player_17: 
+  team: team_0
+  name: Haven Hayes
+  position: Ab accusamus reiciendis voluptatem molestias. Corrupti impedit iste neque enim. Earum iure dignissimos commodi dolorem.
+  number: 392
+  retired: "true"
+  injured: "true"
+  born_on: "2010-02-12"
+  notes: Quis assumenda eum ducimus dolor. Non ea autem aut qui. Iure distinctio est et voluptate. Rerum qui amet repellendus tempora. Exercitationem qui incidunt quia rem. Eius magnam ratione itaque voluptate. Rerum assumenda fugiat non ab. Odit numquam qui sunt qui. Sint qui praesentium earum fuga. Perspiciatis et delectus incidunt in. Inventore eaque itaque non omnis. Temporibus iusto est vel quo. Aperiam atque vel placeat rerum. Et saepe suscipit repellat officia. Ea ut eum molestiae eos. Qui qui aut voluptates nihil. Reprehenderit nobis sed culpa et. Eos vitae debitis molestiae magni. Beatae et nulla rerum accusamus. Suscipit deserunt et ipsum eum. Veritatis ipsa voluptate quibusdam ducimus. Quia earum aspernatur sunt cum. Aut optio consequatur aut sint. Expedita voluptatum perspiciatis dolorum et. Ipsa illo laudantium quam nesciunt. Eaque adipisci sit eum autem. Vitae accusantium tenetur magnam quia.
+  suspended: "false"
+player_18: 
+  team: team_5
+  name: Whitney Dicki
+  position: Excepturi quibusdam possimus sint numquam.
+  number: 842
+  retired: "false"
+  injured: "false"
+  born_on: "2009-09-07"
+  notes: Ipsa quas nihil deserunt nemo. Ut sapiente aperiam magnam qui. Quasi quis sint dolorum quia. Sint consequatur et qui sed. Fuga reiciendis libero voluptatum tempora. Ratione error accusamus fuga velit. Ut numquam neque consequatur culpa. Est quia nihil incidunt in. Omnis commodi labore eligendi fugit.
+  suspended: "false"
+player_19: 
+  team: team_9
+  name: Noemy Prohaska
+  position: Dolore sed repudiandae soluta in.
+  number: 198
+  retired: "false"
+  injured: "false"
+  born_on: "2009-04-27"
+  notes: Facilis itaque at fugit voluptatem. Perspiciatis qui eius quidem sint. Quaerat eum nulla at cum. Accusantium iure ducimus mollitia aut. Perferendis a corrupti veniam quia. Veritatis molestiae veritatis commodi odio. Autem ullam autem corporis qui. Non nesciunt quia et odit. Possimus omnis voluptate aut illum.
+  suspended: "true"
+player_20: 
+  team: team_26
+  name: Jeffery Cronin
+  position: Qui vitae sit qui quia. Praesentium ad eaque quo vel. Numquam incidunt qui quam exercitationem.
+  number: 504
+  retired: "true"
+  injured: "true"
+  born_on: "2009-04-06"
+  notes: Harum occaecati iusto qui porro. Aut aut dolorem quo harum. Voluptatem vitae qui autem iusto. Deleniti iusto voluptatem perferendis animi. Nemo et facilis quia sit. Fugiat ut aut tenetur eos. Sequi nobis rem nam voluptatem. Dolor officia est voluptatibus est. Iure qui optio vitae est. Omnis quis at minima delectus. Ab et neque aut quisquam. Quo asperiores eius rerum molestiae. Sunt dolore quo dolorum minus. Fugiat alias officia laudantium id. Tenetur quidem nihil et necessitatibus. Iure labore et debitis iusto. Deserunt quia ut itaque qui. Vel pariatur omnis recusandae harum. Voluptatem unde quia iure laudantium. Saepe temporibus vero in ea. Voluptas iure occaecati veritatis dicta. Ut voluptatem minima illo sunt. Eum voluptatem eveniet quibusdam similique. Voluptatem eaque eum possimus eligendi. Adipisci reprehenderit aut molestias aut. Molestiae doloremque placeat impedit enim. Est totam cumque voluptatum voluptates.
+  suspended: "false"
+player_21: 
+  team: team_3
+  name: Martin Feil
+  position: Ducimus aut iusto doloremque officiis. Reprehenderit expedita minima qui provident. Deleniti qui dolorem et voluptatem.
+  number: 159
+  retired: "false"
+  injured: "false"
+  born_on: "2011-02-06"
+  notes: Quia itaque eum vel et. Aut voluptates quos adipisci praesentium. Aspernatur at explicabo provident delectus. Molestiae vel unde voluptatum quod. Dolorem quod in dolor libero. Ut sed et sed commodi. Iste eum rerum officia esse. Vel ut voluptas maxime necessitatibus. Ut quia eaque et in. Dolor nemo mollitia atque eveniet. Veritatis dolor qui repudiandae ipsam. Recusandae vel omnis impedit magnam. Perspiciatis mollitia aspernatur temporibus recusandae. Voluptatum repudiandae sunt praesentium eos. Dolor eos voluptates consequatur nobis. Ut rem cum aut quam. Quia quibusdam rem ratione sequi. Illo error dolorum magnam qui. Sit soluta ipsa ut rerum. Minus aut iste non illum. Facilis esse nesciunt ratione atque. Provident aut non veniam ut. Occaecati dignissimos nobis iure sunt. Consequatur maiores est odit facere. Ullam rem nihil voluptate nihil. Cumque nostrum voluptate ut veniam. Dolorem numquam et est et.
+  suspended: "true"
+player_22: 
+  team: team_1
+  name: Dr. Omer Yost
+  position: Quasi incidunt quasi rerum ad. A tenetur ut harum numquam. Veritatis reiciendis sed officia et.
+  number: 311
+  retired: "true"
+  injured: "false"
+  born_on: "2009-05-26"
+  notes: Pariatur officia delectus eaque eum. Accusamus commodi placeat molestiae est. Sit qui qui facilis officia. Recusandae voluptatem maiores ullam nihil. Et et libero et dolorem. Quae ipsum ullam recusandae cupiditate. Consequatur est officia ullam est. Eius officia dignissimos fugit omnis. Similique et minima et sapiente.
+  suspended: "true"
+player_23: 
+  team: team_19
+  name: Vena Kutch
+  position: Nihil ut officia at placeat. Tenetur dolorem voluptas magni libero. Dolores sed ipsum dolore sit.
+  number: 899
+  retired: "true"
+  injured: "false"
+  born_on: "2009-11-23"
+  notes: Autem optio facere quae facere. Quia architecto aperiam adipisci sunt. Quia quis corporis quia consequuntur. Quibusdam quis eum sint eveniet. Excepturi ullam aliquam non quam. Est aut officia officiis et. Velit ipsa temporibus laboriosam repudiandae. Ut facere non id natus. Est ut itaque enim dolorem.
+  suspended: "false"
+player_24: 
+  team: team_37
+  name: Gillian Satterfield
+  position: Ut aut corrupti voluptatibus quisquam.
+  number: 713
+  retired: "true"
+  injured: "false"
+  born_on: "2009-04-14"
+  notes: Autem quos numquam quisquam harum. Necessitatibus nobis et ea voluptatem. Vel eos ut voluptate ut. Minima a et illo voluptas. Optio et inventore eligendi ut. Debitis consequatur beatae officia voluptatum. Ipsa sit in totam omnis. Eum minus ipsum ut non. Doloribus ullam non quaerat enim.
+  suspended: "false"
+player_25: 
+  team: team_33
+  name: Zetta Ernser III
+  position: Ea perspiciatis velit deserunt quasi.
+  number: 363
+  retired: "false"
+  injured: "true"
+  born_on: "2009-08-19"
+  notes: Consequatur ex eveniet cum et. Repellendus qui ratione aut assumenda. Animi itaque omnis esse magni. Aspernatur quo optio occaecati harum. At aliquam placeat ullam fugiat. Iste quaerat recusandae sed rem. Quos ea et unde aut. Ab in maxime illum quidem. Ut accusamus minus et ut.
+  suspended: "false"
+player_26: 
+  team: team_22
+  name: Xavier Rosenbaum
+  position: Sint autem est iusto repellendus.
+  number: 222
+  retired: "false"
+  injured: "true"
+  born_on: "2010-02-11"
+  notes: Repellendus qui doloremque cum voluptatem. Molestiae quo modi at delectus. Odit magnam qui velit numquam. Aliquid similique non dolor eaque. Quia maxime officiis qui enim. Qui id totam dolore asperiores. Et temporibus aliquam tenetur possimus. Aperiam reprehenderit incidunt nemo placeat. Maiores voluptatem et ut ipsam. Vero sint aut unde in. Vel ipsum harum nobis ad. Voluptas iure quas facere sed. Sit aut voluptatem sequi perspiciatis. Enim dolor porro ea voluptatem. Omnis repudiandae aliquid non architecto. A quidem quia inventore quia. Illo ut rem totam eaque. Libero et quas esse dolorum. Voluptatem debitis tempora quidem voluptatem. Qui culpa nihil voluptate quibusdam. Voluptatem sint provident at rerum. Deserunt autem deserunt rerum facilis. Numquam delectus molestiae omnis qui. Et non sequi sit ut. Adipisci praesentium et aut aspernatur. Quisquam ea quidem voluptatem reprehenderit. Sit excepturi quidem minima labore.
+  suspended: "false"
+player_27: 
+  team: team_27
+  name: Freddy Hermann
+  position: Illum et itaque doloribus ut.
+  number: 484
+  retired: "true"
+  injured: "false"
+  born_on: "2009-04-13"
+  notes: Harum dolores consequatur aliquid quis. Quibusdam labore ea animi vel. Voluptatem odit illo et rerum. Esse repellendus laborum eveniet aut. Minus sit quo qui a. Est aperiam non quis a. Qui mollitia ab unde repudiandae. In fuga odit officiis ad. Quia est ad esse in. At fuga ea voluptate ea. Magnam aliquam voluptatum sint velit. Et molestias et esse quaerat. Temporibus eum libero qui vel. Dolor illo asperiores ut est. Eum ducimus deserunt incidunt accusamus. Odit et iusto neque soluta. Qui incidunt et error animi. Nostrum omnis rem totam ullam. Aliquam aut voluptas molestiae aut. Rem dicta eum nisi architecto. Est non sed quidem aut. Voluptatum a accusantium quia facilis. Ea sunt necessitatibus omnis expedita. Molestias et veniam in eaque. Modi tempora quia quo itaque. Dolores explicabo nemo quos est. Sed praesentium quae accusamus quis.
+  suspended: "true"
+player_28: 
+  team: team_36
+  name: Sonia Gerlach
+  position: Quibusdam veritatis qui omnis id.
+  number: 882
+  retired: "false"
+  injured: "true"
+  born_on: "2010-10-05"
+  notes: Ipsum cum quia pariatur reiciendis. Voluptatem fuga id assumenda ad. Id nulla et odio velit. Adipisci repellendus ut possimus amet. Est ad nisi autem voluptates. Deserunt debitis veniam velit numquam. Sequi voluptas veniam excepturi repudiandae. Deserunt quam eaque non nesciunt. Ut accusamus dignissimos unde et.
+  suspended: "false"
+player_29: 
+  team: team_29
+  name: Salvatore Farrell V
+  position: Mollitia fuga soluta rem illo. Est suscipit quia perferendis consequuntur. Voluptatibus repellat sunt aut ipsum.
+  number: 349
+  retired: "true"
+  injured: "true"
+  born_on: "2010-06-28"
+  notes: Rem omnis et ut tenetur. Iusto cupiditate est ipsa non. Ad non nesciunt totam repudiandae. Eos neque temporibus nostrum nihil. Numquam aut iure expedita nihil. Eos eligendi labore rerum saepe. Ullam eum nihil assumenda consequuntur. Quis perferendis velit molestias minus. Consequatur et eius et quisquam.
+  suspended: "false"
+player_30: 
+  team: team_24
+  name: Ed Kuphal V
+  position: Quo autem ad dolorem dolores.
+  number: 559
+  retired: "false"
+  injured: "false"
+  born_on: "2010-04-07"
+  notes: Fugit repellendus architecto velit minus. Ratione non aut pariatur vel. Et consectetur reprehenderit facere sit. Sit quia quis necessitatibus necessitatibus. Voluptas quae dolore nobis aut. Eum illo omnis quas non. Sit rerum cupiditate facere nesciunt. Velit impedit unde et et. Dolorum ex rerum ipsam reprehenderit.
+  suspended: "false"
+player_31: 
+  team: team_27
+  name: Dwight Hermann
+  position: Impedit repellendus porro aut et.
+  number: 111
+  retired: "false"
+  injured: "false"
+  born_on: "2010-06-10"
+  notes: Voluptatibus commodi omnis quia quod. Itaque voluptatum accusamus dolor qui. Dolore corrupti impedit occaecati commodi. Voluptatem voluptas quia et repudiandae. Non vero enim nostrum illum. Aliquid voluptatibus accusamus excepturi inventore. Rem quo omnis quisquam ea. Est dolorum ut vel sint. Eaque earum ea libero ipsa. Distinctio tempore esse similique et. Ex odit est aliquam est. Et consequuntur voluptas quibusdam voluptas. Nostrum dolorum at omnis labore. Dicta eum neque ea inventore. In velit ipsa accusamus iste. Delectus ullam est sint enim. Quia nostrum quis id in. Enim sint veritatis debitis ut. Magni minus nisi quibusdam totam. Ea sapiente facere beatae maiores. Cupiditate consequuntur vel ab molestiae. Nam magnam qui qui sed. Et velit et temporibus excepturi. A quas quibusdam eum et. Pariatur fuga asperiores placeat vitae. Maxime fuga aut voluptas inventore. Porro aspernatur voluptatem accusantium ipsa.
+  suspended: "false"
+player_32: 
+  team: team_19
+  name: Saige Weimann
+  position: Et non suscipit id et. Consequatur eius necessitatibus non delectus. Ut quo ut vel ut.
+  number: 52
+  retired: "true"
+  injured: "true"
+  born_on: "2010-04-08"
+  notes: Tempore porro saepe ab nam. Hic quo ea ipsa voluptas. Labore eligendi dolore commodi tempora. Illo dolorem veniam omnis inventore. Alias qui rem et similique. Nesciunt dolorem quae et ipsa. Sequi qui sunt omnis nihil. Omnis illo aut aut quia. Sunt quia aliquam ex consequatur.
+  suspended: "true"
+player_33: 
+  team: team_26
+  name: Rudy Pfannerstill
+  position: Molestiae nisi laborum ut aliquam.
+  number: 905
+  retired: "false"
+  injured: "true"
+  born_on: "2011-03-09"
+  notes: Voluptas sunt facilis minus dolores. Et qui sit repudiandae quos. Aut commodi possimus deserunt in. Veniam aut harum eos non. Et et non iste aut. Dolorem voluptatem possimus aliquam est. Laborum earum in et quia. Eos corrupti minus tenetur quas. Quos possimus quae quas sed. Enim atque atque impedit voluptas. Explicabo eos blanditiis tenetur sequi. Reprehenderit sunt minus aspernatur magnam. Sint neque iusto sapiente et. Excepturi ut non explicabo labore. Veniam ut fuga quia voluptas. Consequatur ut non inventore id. Sequi enim voluptatibus ut vero. Saepe enim omnis dolor non. Saepe aut enim nihil qui. Ullam aut eos aut dolore. Et et vel inventore aut. Et velit distinctio rem atque. Placeat suscipit repudiandae omnis molestiae. Illo explicabo ut quidem aperiam. Molestias deserunt odio asperiores animi. Delectus nostrum veniam sint et. Sed autem repudiandae nobis voluptas.
+  suspended: "true"
+player_34: 
+  team: team_10
+  name: Dr. Emilio Quitzon
+  position: Eligendi velit enim nisi rem. Debitis dolorum ipsum praesentium rem. Rerum omnis eum id quae.
+  number: 379
+  retired: "false"
+  injured: "false"
+  born_on: "2009-04-14"
+  notes: Sint hic cum dolores et. Consequatur quia est qui laboriosam. Soluta expedita voluptatum in reiciendis. Delectus est consequatur laborum atque. Qui sint consequatur sunt quis. Consequatur qui nisi cumque dicta. Enim laudantium natus consequatur et. Veritatis qui sapiente ipsa occaecati. Est ratione in aperiam porro. Et ut maiores perferendis ipsam. Sit in quia pariatur aut. Ducimus perspiciatis tenetur illo aperiam. Est facilis eligendi sunt ut. Aut distinctio sit quo modi. Doloribus voluptatibus voluptatem a molestias. Culpa autem soluta nobis nisi. Laborum consequatur soluta sunt error. Libero qui est ut laborum. Eius fugit aut aut repellat. Doloremque aut at ipsum ipsum. Necessitatibus et accusantium temporibus harum. Pariatur et magnam perferendis voluptatem. Porro a magnam atque dolorem. Quae rerum et delectus est. Expedita est velit accusantium quos. Cupiditate quaerat ut minima repellendus. Itaque quae praesentium veritatis et.
+  suspended: "false"
+player_35: 
+  team: team_28
+  name: Eda Pagac
+  position: Qui suscipit rerum qui nam. Occaecati velit tempore voluptatem itaque. Aut aut omnis non quod.
+  number: 153
+  retired: "true"
+  injured: "false"
+  born_on: "2009-07-12"
+  notes: Velit maiores totam nam in. Dolore qui qui ad soluta. Maxime mollitia incidunt sit hic. Sequi consequatur adipisci eaque sunt. Repellat aliquid aut alias quis. Nesciunt alias rem quo quo. Tempora ut maxime corporis voluptatem. Non harum eligendi inventore quidem. Voluptatem dolorem architecto ab tempora. Perspiciatis nam architecto ducimus hic. Earum ut qui ducimus labore. Nobis itaque tempore sed sit. Nostrum quis et animi provident. Cumque quia et debitis quae. Facere error in et distinctio. Libero consequuntur quasi eum provident. Vitae ut quas a quod. Voluptatem inventore quis provident est. Voluptatum natus ab aliquam cupiditate. Dicta ad sint modi id. Officia neque explicabo est est. Occaecati sed est architecto ut. Pariatur dignissimos est ullam eligendi. Porro atque omnis soluta itaque. Perspiciatis blanditiis illo voluptatem sint. Facere quia sunt eum fuga. Ipsum sed quas dolores quas.
+  suspended: "false"
+player_36: 
+  team: team_25
+  name: Adriana Leannon
+  position: Ut nam fugit quasi fugit. Voluptatibus dignissimos voluptatem illum assumenda. Id voluptatem veritatis ea sequi.
+  number: 15
+  retired: "false"
+  injured: "false"
+  born_on: "2010-10-20"
+  notes: Neque pariatur non at vero. Nam quae neque a eum. Quidem deserunt et labore vel. Voluptas et explicabo corrupti officiis. Qui aliquam et alias dolorem. Explicabo eaque quia inventore quod. Similique id eaque quaerat veritatis. Vero quibusdam fugiat sunt cumque. Facere sunt minima facilis fugit.
+  suspended: "true"
+player_37: 
+  team: team_35
+  name: Destin Gottlieb
+  position: Expedita voluptatem consequatur hic officia.
+  number: 157
+  retired: "false"
+  injured: "false"
+  born_on: "2011-01-06"
+  notes: Rerum ab molestias ab minus. Et omnis quos ipsum dignissimos. Repudiandae enim cumque vel molestias. Non error itaque vitae exercitationem. Sit et vero reprehenderit quo. Animi repudiandae et est in. Beatae quasi aut est cum. Dolores quibusdam excepturi magnam magnam. Accusantium quasi at incidunt est.
+  suspended: "false"
+player_38: 
+  team: team_7
+  name: Eugene Labadie
+  position: Eveniet ea voluptatem et odit. Quam eveniet nihil voluptates saepe. Non incidunt hic rerum voluptates.
+  number: 578
+  retired: "false"
+  injured: "false"
+  born_on: "2011-03-02"
+  notes: Sint molestiae placeat eos quo. Quibusdam dolor est quasi molestias. Omnis sunt enim aliquid ipsam. Et dolore sit totam iure. Qui qui sit eos dolorem. Delectus accusamus et at expedita. Ea voluptatum suscipit vero sit. Molestias officiis autem facere quia. Et explicabo est esse adipisci.
+  suspended: "false"
+player_39: 
+  team: team_4
+  name: Miss Camylle Goyette
+  position: Ipsum tenetur dolores assumenda consequuntur. Ducimus quod animi iure fugiat. Earum veniam commodi quia vel.
+  number: 251
+  retired: "false"
+  injured: "false"
+  born_on: "2010-01-07"
+  notes: Et qui delectus eum sit. Alias praesentium nostrum at ut. Et corrupti quia quae sit. Dolores enim ducimus vel tenetur. Ratione impedit consequatur autem quibusdam. Beatae voluptatem ut laudantium quis. Illum dolor modi iste velit. Dignissimos mollitia sed sequi repudiandae. Recusandae eligendi aut accusantium id.
+  suspended: "true"
+player_40: 
+  team: team_4
+  name: Deion Johnston
+  position: Autem quas debitis similique dolores. Quisquam similique sunt quos incidunt. Molestiae nostrum sit natus illo.
+  number: 682
+  retired: "true"
+  injured: "false"
+  born_on: "2009-08-12"
+  notes: Commodi molestiae ut est culpa. A nam ea accusamus esse. Aut autem dolor nesciunt qui. Repudiandae omnis et magnam ut. Est quia earum nobis tempora. Incidunt quis et a dolorem. Cumque est quo qui minima. Voluptas ducimus enim eum maxime. Ipsum deserunt id beatae quae. Assumenda ex dolorem iste error. Alias nam expedita necessitatibus eaque. Corporis minus similique fugiat velit. Aut non magnam consectetur rerum. Adipisci consequatur illo quis quam. Vel nostrum commodi facere vel. Eum et sint nam illo. Deleniti officiis harum magnam nesciunt. Magni eligendi sed culpa aut. In sit animi vel et. Ipsum ut dolor maxime placeat. Dignissimos cum voluptatum sed rerum. Deleniti odit accusamus culpa numquam. Velit consequatur quis voluptatibus sit. Est laborum aut eius quia. Consequatur distinctio voluptate et fugiat. Consequatur veritatis provident aut omnis. Quae ut dolorem blanditiis deserunt.
+  suspended: "false"
+player_41: 
+  team: team_23
+  name: Susana Ernser
+  position: Odio non molestiae deserunt molestiae.
+  number: 550
+  retired: "false"
+  injured: "true"
+  born_on: "2010-08-25"
+  notes: Rerum rerum sed harum nesciunt. Consequatur sit tempora animi qui. Ullam quibusdam laboriosam similique totam. Explicabo atque et delectus delectus. Tempora aut ut quasi ut. Minus iusto dolores nulla tenetur. Repudiandae nulla facilis dicta sed. Qui et et autem facilis. Hic ea in facilis aspernatur. Accusantium sit laudantium temporibus sunt. Aperiam magnam autem minima voluptatem. Dolor molestias delectus expedita cupiditate. Totam ut sequi sed laboriosam. Nesciunt sit maiores totam odit. Ea vel enim doloribus asperiores. Deleniti dolorem numquam ad doloremque. Consequuntur possimus aut veniam doloremque. Ut beatae tenetur odit voluptatem. Blanditiis dolor iure dolores distinctio. Voluptatem iste harum voluptatum id. Error omnis veniam quis explicabo. Similique sit suscipit non excepturi. Qui voluptas iusto quibusdam velit. Magni non beatae ducimus laboriosam. Rem voluptate molestiae excepturi totam. Alias ea ducimus quis qui. Unde nemo sed rerum repellendus.
+  suspended: "false"
+player_42: 
+  team: team_14
+  name: Kristian Leuschke
+  position: Beatae fuga consectetur voluptatibus quia.
+  number: 428
+  retired: "false"
+  injured: "true"
+  born_on: "2011-03-01"
+  notes: Iusto quia expedita qui aliquam. Qui vitae consequatur labore occaecati. Ea tempore fugit doloremque voluptatibus. Earum est laboriosam est laboriosam. Et vero ipsam et explicabo. Eaque aperiam magnam in facilis. Dolores quod nisi illo molestiae. Dolores dolor exercitationem provident dolor. Maxime sint odio maxime quod. Maiores consequuntur doloremque incidunt magni. Rerum modi aut maiores temporibus. Aut ullam placeat odio aliquam. Earum vel velit culpa recusandae. Doloremque culpa et est voluptatem. Incidunt a officia iste ad. Odio eos distinctio consequuntur nisi. Aut temporibus id cupiditate doloremque. Aspernatur eius sunt quasi distinctio. Qui explicabo exercitationem maxime dolore. Neque omnis esse soluta similique. Perferendis consequatur quia ex culpa. Qui temporibus voluptatem quis alias. Ad quisquam itaque culpa repellendus. Ad enim eveniet qui dolorum. Voluptate quia labore sit dolorem. Est qui deserunt dignissimos et. Repudiandae id sit omnis reprehenderit.
+  suspended: "true"
+player_43: 
+  team: team_22
+  name: Eryn Mayert
+  position: Explicabo ipsum corrupti ut atque. Et illum et ullam alias. Quia laudantium dolorem dolores est.
+  number: 841
+  retired: "false"
+  injured: "false"
+  born_on: "2010-01-07"
+  notes: Enim nulla ipsum vel accusantium. Numquam aut error cumque enim. Est et qui fugit non. Laudantium rerum earum veritatis nulla. Aspernatur et eos iste ut. Et voluptatibus libero in nostrum. Et doloremque autem officia et. Necessitatibus asperiores et odio vel. Et consequatur ullam nemo rerum. Voluptatum repellendus et maxime sit. Quia illum voluptates explicabo et. Excepturi eaque ea nostrum enim. Fugit quo velit non non. Voluptates minima dolores molestias nostrum. Debitis unde quibusdam asperiores quia. Porro culpa voluptas amet nihil. Culpa ut animi animi tempore. Inventore similique corporis tempore voluptatem. Repellat tempore natus doloremque quibusdam. Sint veritatis totam dolores sit. Ipsum perspiciatis excepturi voluptas possimus. Sit laudantium qui aliquam possimus. Assumenda laboriosam nihil hic dicta. Aut quae dignissimos molestiae iste. Accusantium natus quas mollitia repudiandae. Enim ullam et minima ut. Magni delectus similique est voluptas.
+  suspended: "true"
+player_44: 
+  team: team_18
+  name: Reid Renner
+  position: Doloribus voluptas deleniti est animi.
+  number: 188
+  retired: "false"
+  injured: "true"
+  born_on: "2010-03-01"
+  notes: Totam ut eius dicta quos. Ut voluptatem laudantium recusandae alias. Eos optio doloribus dolorum sed. Iusto sunt atque qui dolores. Possimus nihil magnam ut perferendis. Blanditiis sint non quis et. Provident neque accusantium laudantium magnam. Neque aut cum voluptatem eos. Quod temporibus eius reiciendis sed. Tempore corporis quis voluptas quod. Hic earum suscipit tempora nihil. Excepturi quam assumenda delectus qui. Sit iste molestias aut nostrum. Est fugiat rem debitis voluptates. Aut debitis nihil nemo expedita. Dolores recusandae accusamus optio fuga. Dolore tempore consequuntur cum autem. Provident velit quia sit quis. Quo est quidem praesentium omnis. Ipsam sed expedita sit voluptas. Nemo praesentium veritatis velit minima. Sit et eius esse corrupti. Ipsa magni ipsum non eaque. Libero suscipit cumque ea quaerat. Dolorem illum fuga nobis laborum. Et tempora et aut modi. Excepturi eligendi voluptas soluta officia.
+  suspended: "true"
+player_45: 
+  team: team_20
+  name: Tatum Rippin
+  position: Qui architecto earum laboriosam illo.
+  number: 465
+  retired: "true"
+  injured: "true"
+  born_on: "2009-04-04"
+  notes: Inventore atque sunt saepe reiciendis. Quo et molestiae in est. Rerum quas nihil ut ut. Magnam quos qui repellendus est. Aliquid corporis in distinctio necessitatibus. Harum eos quas possimus sapiente. Dolorem esse ea amet magni. Sed reiciendis veniam doloremque voluptatibus. Pariatur eum blanditiis possimus blanditiis.
+  suspended: "false"
+player_46: 
+  team: team_18
+  name: Milo Gorczany
+  position: Excepturi nihil deleniti eos quidem. Necessitatibus sequi aperiam optio voluptatem. Accusamus nisi et odio fugit.
+  number: 886
+  retired: "false"
+  injured: "true"
+  born_on: "2010-01-15"
+  notes: Quae dolorem aliquid sint iure. Iste animi minus laboriosam veritatis. Magnam commodi corporis aut ullam. In ut et maiores fugiat. In aut error deleniti assumenda. Eligendi ullam voluptate aut sapiente. Delectus dolorem blanditiis asperiores aut. Numquam consectetur odit dolor sint. Ab doloribus ab quo officia.
+  suspended: "true"
+player_47: 
+  team: team_9
+  name: Amya Hagenes DVM
+  position: Officia libero illo odio pariatur.
+  number: 728
+  retired: "true"
+  injured: "true"
+  born_on: "2010-02-18"
+  notes: Vel fugit accusantium corrupti qui. Vel repellendus enim molestiae voluptatem. Omnis occaecati vel est aut. Dolorem officiis rerum voluptas soluta. Sint a et illo dolorem. Eos dicta non ipsum quasi. Animi magnam illum voluptatum fugit. Qui reiciendis aut et non. Soluta vero nesciunt magni ullam. Debitis aut error consequuntur vitae. Eaque ab velit iste sed. Aut possimus mollitia omnis rerum. Provident inventore molestiae ut dignissimos. Neque voluptatibus perferendis quos sunt. Modi aliquid vel laboriosam est. Voluptate eius rerum quia necessitatibus. Facilis quia rerum ipsa sit. Adipisci aliquam velit sint est. Vitae minima distinctio molestiae voluptate. Officia et saepe neque ducimus. Quia magnam at delectus et. Sunt temporibus magnam distinctio odit. Quidem et impedit quisquam minima. Laboriosam sunt ipsa dolore laborum. Molestiae deleniti rerum maiores a. Sit atque laborum eius consequatur. Eum dolor qui libero similique.
+  suspended: "false"
+player_48: 
+  team: team_21
+  name: Brigitte Swift
+  position: Rem nihil velit sint et. Ut nesciunt debitis hic dignissimos. Corrupti ab occaecati quidem aut.
+  number: 720
+  retired: "true"
+  injured: "false"
+  born_on: "2009-07-24"
+  notes: Non numquam explicabo enim voluptatem. Incidunt voluptatum iste quam iusto. Aut soluta dolore consequatur quis. Officiis minima deleniti sint sed. Itaque saepe fugiat maxime quo. Voluptate fuga placeat iusto unde. Cumque ipsum nihil ut corrupti. Molestiae ex praesentium soluta autem. A consequatur aut sed officia. Quia molestias dolor molestiae aut. Sit molestias odit soluta tenetur. Illo aspernatur sequi quia dolor. Eum assumenda soluta sapiente quisquam. Repellendus beatae sit ut distinctio. Eum in et corporis dolor. Nam et quo molestiae cupiditate. Officiis quod et ut amet. Hic non esse id facere. Quas aliquid sed sed omnis. Est dicta officia nostrum earum. Ab esse quibusdam ullam assumenda. Debitis consectetur suscipit dolor dolore. In est non perspiciatis fugiat. Et earum eveniet eos doloribus. Quo reiciendis at tempora illum. Fugiat et temporibus omnis a. Consequatur excepturi molestiae voluptate in.
+  suspended: "true"
+player_49: 
+  team: team_4
+  name: Aniya White PhD
+  position: Cupiditate rerum molestiae explicabo voluptas. Dolores dolores qui temporibus repellendus. Aliquam accusantium eligendi repellat ut.
+  number: 348
+  retired: "false"
+  injured: "true"
+  born_on: "2010-10-16"
+  notes: Ut optio aperiam officia suscipit. Ut ut quia magnam repellendus. Ut necessitatibus occaecati a et. Aspernatur quia fugit sint vel. Consectetur corrupti saepe iusto sint. Quam harum ratione aliquam esse. Quis praesentium perferendis et dignissimos. Atque sunt saepe ut modi. Culpa culpa aspernatur non omnis.
+  suspended: "false"
+player_50: 
+  team: team_7
+  name: Treva Kuvalis
+  position: Nemo hic facilis aliquam in.
+  number: 715
+  retired: "false"
+  injured: "false"
+  born_on: "2009-04-29"
+  notes: Odio dolorum non asperiores dolor. Sunt omnis commodi dolor repellat. Nulla sed est optio eveniet. Aut reiciendis quia aut dolores. Consequatur molestiae odio voluptas hic. Consequatur ut fugit rerum nesciunt. Eligendi dolor deserunt aliquid officia. Voluptatibus dolor omnis fugit quis. Est perspiciatis tempora id labore.
+  suspended: "true"
+player_51: 
+  team: team_28
+  name: Oliver Leffler
+  position: Et nulla magni ut asperiores.
+  number: 422
+  retired: "false"
+  injured: "true"
+  born_on: "2010-12-28"
+  notes: Quo reiciendis dolores autem sunt. Ea distinctio non veniam cumque. Ipsam incidunt dolore qui quas. Tenetur accusantium reprehenderit vel adipisci. Exercitationem voluptas voluptatibus delectus dolorem. Exercitationem fuga quam dolore tempora. In aut voluptatem rerum ipsam. Dolores reprehenderit inventore et nihil. Similique eligendi ea sed facilis.
+  suspended: "true"
+player_52: 
+  team: team_33
+  name: Elvera Schaden
+  position: Et repudiandae non vitae veniam. Autem beatae et quasi fugiat. Ipsam ullam non debitis explicabo.
+  number: 825
+  retired: "false"
+  injured: "true"
+  born_on: "2009-06-20"
+  notes: Atque nostrum optio consectetur in. Culpa odio quia deleniti et. Dolor quia blanditiis expedita iusto. Consectetur consequatur ad quas qui. Quia quos ea autem eveniet. Excepturi atque aut accusamus facere. Blanditiis commodi ea aut ipsum. Hic ea eius soluta inventore. Voluptatum quod sit nam non.
+  suspended: "true"
+player_53: 
+  team: team_32
+  name: Kelli Wolf
+  position: Ut quibusdam dolorem quod id.
+  number: 455
+  retired: "true"
+  injured: "false"
+  born_on: "2009-12-10"
+  notes: Alias minus amet et et. Aliquam sint occaecati quia dolores. Eius molestiae vel expedita et. Ipsam a molestias necessitatibus ducimus. Provident optio excepturi tempora ex. Eligendi est aperiam amet amet. Quis expedita incidunt eaque sapiente. Vel et quia deleniti quia. Provident dolorem perspiciatis unde non. Magni sit vitae quo veritatis. Rerum quo et quibusdam doloremque. Sequi facere voluptas sapiente veritatis. Qui voluptatem et occaecati dolorem. Possimus ullam qui quam quis. Numquam quis eum qui rerum. Dolorum sit harum ratione est. Officiis voluptatem ea beatae beatae. Cum qui tempora quae quibusdam. Ipsum voluptatum illo maxime et. Maxime vero autem et ab. Velit ut fuga fugiat aliquam. Explicabo inventore deleniti ipsam nesciunt. Eveniet optio et reprehenderit eos. Porro veritatis beatae vitae cum. Asperiores numquam ratione non quis. Rem aut placeat veniam ab. Est voluptates ut quam fuga.
+  suspended: "true"
+player_54: 
+  team: team_18
+  name: Brent Brown
+  position: Qui nesciunt vel minima aspernatur.
+  number: 848
+  retired: "false"
+  injured: "false"
+  born_on: "2009-09-14"
+  notes: Laborum deleniti expedita quis quasi. Adipisci distinctio doloribus et ipsam. Eum commodi voluptas accusamus rerum. Ut rerum amet ut nobis. Et saepe expedita reprehenderit rerum. Quia magnam aspernatur pariatur veniam. Possimus similique dolorum soluta eius. Qui molestias inventore omnis et. Dicta repellat dolorem quo quis.
+  suspended: "false"
+player_55: 
+  team: team_16
+  name: Dr. Hank White
+  position: Voluptatum ut laboriosam dolorem vel. Et necessitatibus fugit illo at. Dolores autem fugiat qui facere.
+  number: 984
+  retired: "true"
+  injured: "true"
+  born_on: "2010-10-03"
+  notes: Perspiciatis commodi dolorum sed ea. Architecto totam sit voluptatem possimus. Fuga sint fuga ea sit. Quis sequi eaque est inventore. Enim quas et ut ut. Delectus ducimus aliquid tempore nulla. Sunt velit voluptas voluptatibus qui. Est est dolore cum reiciendis. Sed quas delectus repellat assumenda.
+  suspended: "true"
+player_56: 
+  team: team_39
+  name: Percy Koelpin
+  position: Hic ipsum deleniti ut vel.
+  number: 851
+  retired: "false"
+  injured: "false"
+  born_on: "2010-07-27"
+  notes: Sint voluptas aliquam vitae tempore. Sit dolores ut quam itaque. Aliquam voluptate animi voluptates sint. Quos blanditiis alias velit assumenda. Sit dolor recusandae molestiae quam. Deserunt incidunt est et voluptatum. Consectetur vel facere dolorem dolor. Mollitia eos temporibus nostrum iure. Aut tempore minus unde officia.
+  suspended: "true"
+player_57: 
+  team: team_22
+  name: Margot King
+  position: Incidunt sunt hic nihil nulla. Quia et officiis nisi ut. Quia qui dignissimos accusamus est.
+  number: 645
+  retired: "true"
+  injured: "true"
+  born_on: "2011-01-26"
+  notes: Harum adipisci vitae dolores laboriosam. Excepturi ut nemo voluptatum et. Repudiandae et minima modi praesentium. Illo laudantium voluptas illum ipsa. Autem fugiat cupiditate laudantium consequatur. Et delectus quam recusandae earum. Quibusdam dicta perferendis commodi repellendus. Aut facilis et ut vel. Reiciendis magni qui itaque culpa.
+  suspended: "true"
+player_58: 
+  team: team_34
+  name: Rosemary Kuvalis
+  position: Voluptatibus laboriosam voluptatibus rerum voluptatum.
+  number: 433
+  retired: "false"
+  injured: "false"
+  born_on: "2010-09-10"
+  notes: Aut unde adipisci voluptas quia. Numquam earum quod illum et. Illo ipsa quia voluptatem deleniti. In quo non eveniet recusandae. Et temporibus omnis nihil in. Vel et labore ut in. Nihil nesciunt vel aut dolor. Non consequuntur error esse quia. Aperiam veniam recusandae quisquam quia.
+  suspended: "false"
+player_59: 
+  team: team_9
+  name: Dr. Kolby Yundt
+  position: Sunt asperiores maiores at animi.
+  number: 564
+  retired: "true"
+  injured: "true"
+  born_on: "2011-03-07"
+  notes: Perspiciatis ut quos dolor earum. Et rerum quis quidem voluptatum. Ullam autem magnam reiciendis numquam. Cum quam quaerat nisi ex. Natus neque magnam molestiae fuga. Sapiente eos ratione minima beatae. Ut magni laborum rem ipsum. Eum et veniam architecto necessitatibus. Velit rerum sit dignissimos voluptas.
+  suspended: "true"
+player_60: 
+  team: team_28
+  name: Jayda Renner
+  position: Deleniti voluptatem repellendus sit fugiat. Quibusdam itaque libero at ab. Magni nemo ipsa fugiat tenetur.
+  number: 832
+  retired: "false"
+  injured: "false"
+  born_on: "2009-07-16"
+  notes: Dolorum voluptas reiciendis illum neque. Sed saepe omnis tempora illo. Adipisci deleniti perspiciatis voluptate nihil. Sed id ea voluptas sit. Qui nihil voluptate suscipit odio. Repudiandae dolorum et velit repellat. Reiciendis est voluptatum vel earum. Aspernatur cum cum reprehenderit sed. Consequatur ipsa soluta libero blanditiis.
+  suspended: "false"
+player_61: 
+  team: team_36
+  name: Bessie Hansen
+  position: Quia et qui earum voluptatum. Perferendis dolore temporibus non dolorem. Dolores minus nobis quam aut.
+  number: 848
+  retired: "true"
+  injured: "true"
+  born_on: "2010-07-08"
+  notes: Quod vel cumque praesentium et. Distinctio alias ut eum veniam. Accusantium mollitia commodi reprehenderit ea. Et beatae laboriosam sunt vitae. Et ipsum dolores minus quae. Labore aut et consectetur culpa. Minus distinctio autem aliquid reprehenderit. Aliquid accusamus modi corrupti et. Vitae voluptates est iusto esse.
+  suspended: "false"
+player_62: 
+  team: team_38
+  name: August Kunze
+  position: Sint labore aut commodi distinctio.
+  number: 929
+  retired: "false"
+  injured: "true"
+  born_on: "2009-12-19"
+  notes: Minus culpa sequi eaque harum. Nihil eos quibusdam ea voluptatum. Et officiis totam enim asperiores. Quia velit perspiciatis error facilis. Asperiores architecto aspernatur quo vero. Et explicabo sed dicta in. Optio velit illum ex assumenda. Iusto aliquam ut voluptas maiores. Quia sint earum corrupti aut. Quibusdam mollitia quasi et saepe. Beatae quasi et qui labore. Perspiciatis et sit deleniti quo. Possimus possimus enim distinctio qui. Labore eum eum et magnam. Sed quae et voluptatem consequatur. Commodi ipsum labore praesentium incidunt. Quibusdam temporibus quisquam est veniam. Vitae ipsa eum sunt quae. Tempora nulla distinctio repellendus porro. Impedit voluptate est at sint. Eum aperiam quidem quia enim. Sint sunt quo quis dicta. Minus quas debitis earum nisi. Sit est ipsum dolorem qui. Ad eos delectus et et. Perferendis molestiae nihil iusto sed. Optio voluptas delectus explicabo ut.
+  suspended: "false"
+player_63: 
+  team: team_8
+  name: Bertha Carter
+  position: Ut unde praesentium nemo fugit. Est dolor doloremque possimus maxime. Ut exercitationem et adipisci ab.
+  number: 150
+  retired: "true"
+  injured: "false"
+  born_on: "2009-06-24"
+  notes: Accusantium nostrum iste corporis quidem. Qui omnis cumque aut dolorum. Corporis eveniet tenetur vitae quam. Nesciunt doloremque doloribus pariatur libero. Sed totam ipsum assumenda corporis. Sint non adipisci deleniti dolore. Dolor numquam impedit eum nobis. Ipsum consequuntur iure sed aut. Natus sint et voluptas et. Earum repellat aspernatur unde placeat. Et expedita quia est est. Quidem harum asperiores in repellendus. Culpa pariatur veniam sapiente minima. Quia veniam aut repellat quaerat. Delectus unde praesentium blanditiis autem. Quia aut recusandae qui non. Reprehenderit sed quia nihil voluptas. Assumenda numquam nam ratione aut. Molestias quia ipsa sit explicabo. Alias quasi eligendi numquam fugiat. Commodi consequatur aut et magni. Libero quae magnam est magnam. Ut ex voluptas non dolore. Nihil ducimus ratione in aut. Voluptatem nemo nihil cumque et. Doloribus laudantium ullam perspiciatis possimus. Excepturi qui autem itaque quae.
+  suspended: "true"
+player_64: 
+  team: team_8
+  name: Mr. Nikita Casper
+  position: Minus at eos est autem. Ad laboriosam nisi neque culpa. Sint voluptas aspernatur iusto vitae.
+  number: 204
+  retired: "true"
+  injured: "false"
   born_on: "2010-10-23"
-  notes: Facilis omnis veniam fuga consectetur. Vel ipsum et laborum consequatur. Perferendis soluta quas voluptatem quia. Quisquam quod eos earum et. Voluptatem impedit iusto aut occaecati. Est et ducimus est omnis. Aut dolor atque adipisci necessitatibus. Quam quibusdam tenetur quaerat dicta. Eaque aut vel nemo perspiciatis.
-  suspended: 1
+  notes: Est ut tempora rem non. Qui possimus cum voluptatem praesentium. Hic aspernatur quo voluptatem perspiciatis. Quae maiores sunt odio sit. Voluptatem nostrum fugit enim unde. Non qui consectetur quas a. Incidunt nesciunt aperiam voluptas ullam. Odio est rerum cumque laborum. Rerum similique consequatur eaque aperiam.
+  suspended: "false"
+player_65: 
+  team: team_22
+  name: Jamie Wiegand
+  position: Ut autem velit ullam fugiat.
+  number: 358
+  retired: "true"
+  injured: "false"
+  born_on: "2010-08-09"
+  notes: Voluptatem magni aut nemo aut. Quia ratione quia optio eaque. Ex velit ullam adipisci unde. Repellendus autem facilis labore non. Reprehenderit voluptate facilis omnis inventore. Animi aperiam quis perferendis exercitationem. Fugit optio aspernatur qui accusamus. Ipsum harum id vero hic. Veritatis sed rerum qui ut. Sit voluptas dignissimos ea sed. Modi labore dolorem sint provident. Sint consequatur qui optio aut. Totam officia doloribus eligendi voluptate. Molestiae exercitationem ducimus nemo reiciendis. Voluptatem et tempora similique tempore. Nesciunt vero dolorum est doloremque. In sapiente ut et modi. Quis voluptatem exercitationem sed voluptatum. Doloremque animi qui odit itaque. Cumque ut dolores et perferendis. Quis nihil est enim molestiae. Dolore sint dicta perferendis in. Dolores repellat necessitatibus voluptatem debitis. Qui ea beatae et non. Consequatur aspernatur illum sed non. Et nesciunt dolores saepe iusto. Est ab aut et nobis.
+  suspended: "false"
+player_66: 
+  team: team_2
+  name: Flo McDermott
+  position: Sit eum eligendi dicta magnam. Quas non quis nam deleniti. Voluptatem est rerum praesentium dolorem.
+  number: 293
+  retired: "false"
+  injured: "false"
+  born_on: "2011-02-13"
+  notes: Esse ut et ea est. Debitis perspiciatis occaecati nostrum cupiditate. Ea facilis dolor enim accusantium. Suscipit architecto consequatur ipsa et. In sed sed numquam eos. Quod et at dolores et. Quisquam sed architecto sint ut. Minus aspernatur illum dolore incidunt. Esse doloribus et laborum sequi.
+  suspended: "true"
+player_67: 
+  team: team_35
+  name: Mr. Clarabelle Leffler
+  position: Fuga quaerat temporibus harum provident. Saepe qui aut earum ut. Non reiciendis labore maxime voluptates.
+  number: 880
+  retired: "false"
+  injured: "true"
+  born_on: "2011-03-21"
+  notes: Odio inventore ut maiores repudiandae. Reprehenderit eos quaerat ut beatae. Debitis ea quae odio voluptate. Magni temporibus distinctio nostrum deserunt. Eaque eius libero deserunt qui. Dolor doloribus totam quibusdam cumque. Rem dolorem voluptatem amet et. At est nostrum necessitatibus voluptate. Rerum voluptas maxime explicabo expedita.
+  suspended: "true"
+player_68: 
+  team: team_34
+  name: Ms. Maurine McGlynn
+  position: Ea dignissimos cupiditate est suscipit. Minima odio praesentium repellendus ab. Accusantium non quaerat voluptatem eaque.
+  number: 505
+  retired: "true"
+  injured: "true"
+  born_on: "2009-10-23"
+  notes: Qui ea iste vero nihil. Dolorem laborum vero nobis rerum. Quibusdam ipsum esse alias commodi. Eos neque voluptatem iusto saepe. Possimus ut facilis recusandae eum. Perferendis eaque voluptatum ex itaque. Aliquam impedit vitae provident quod. Itaque suscipit laboriosam ratione voluptatem. Sit quasi reprehenderit quibusdam velit.
+  suspended: "true"
+player_69: 
+  team: team_6
+  name: Maddison Stiedemann
+  position: Eos qui dolorem quidem dolorem. Labore maxime consequatur repellendus laborum. Repellendus quia quis similique error.
+  number: 951
+  retired: "false"
+  injured: "true"
+  born_on: "2010-06-26"
+  notes: Possimus et ducimus itaque ullam. Nihil est quia officiis at. Fugiat sunt nesciunt omnis laboriosam. Dolore quia est accusamus facilis. Officiis quia ex quas est. Exercitationem nobis repellat recusandae animi. Itaque voluptatibus aut quo possimus. Cumque quibusdam quos sint sunt. Sapiente ab non dolor corporis.
+  suspended: "true"
+player_70: 
+  team: team_2
+  name: Otha Runolfsson
+  position: Qui ut magnam labore ducimus. Velit aut et ea omnis. A nulla et ducimus nobis.
+  number: 455
+  retired: "true"
+  injured: "true"
+  born_on: "2010-06-14"
+  notes: Velit magni voluptas aspernatur in. Sit repellendus est dolorum earum. Voluptatem alias et voluptas rem. Quos id dolorem iusto est. Ut aspernatur ipsa magnam quo. Saepe ipsa eum quas ut. Reprehenderit quas non molestias fugit. Labore itaque iusto voluptas magni. Ducimus minus dolore et autem. Ratione molestiae vero dolorem laudantium. Saepe qui excepturi ducimus quibusdam. Cum ab magni qui quia. Quo beatae est aut fugiat. Molestias necessitatibus aut rem labore. Totam nam dolorum et quae. Soluta veritatis itaque debitis totam. Adipisci alias aspernatur non ut. Occaecati velit nulla culpa corporis. Perferendis alias error et ut. Enim doloremque vel pariatur quis. Deleniti dolorem alias occaecati est. Qui consequatur voluptates similique nulla. Et asperiores repellat dolor architecto. Est non officia labore voluptatem. Sit nesciunt dolor consequatur et. Aperiam aspernatur a enim sint. Deleniti et et qui omnis.
+  suspended: "false"
+player_71: 
+  team: team_22
+  name: Halle Dickinson
+  position: Dolorem ut ut atque voluptas. Eveniet cumque quis accusantium labore. Porro ut dicta vero explicabo.
+  number: 314
+  retired: "false"
+  injured: "false"
+  born_on: "2009-07-26"
+  notes: Fugit saepe voluptatem qui fuga. A facere ipsum et quia. Sequi deleniti ratione ea ut. Nulla ullam enim enim voluptas. Quo sed repudiandae accusantium quod. Nisi accusamus quod magni dolor. Voluptatem aut enim quis autem. Velit non voluptatibus qui quaerat. Repudiandae esse porro nostrum quaerat.
+  suspended: "true"
+player_72: 
+  team: team_35
+  name: Jessyca McGlynn
+  position: Optio laudantium impedit et doloribus.
+  number: 676
+  retired: "false"
+  injured: "false"
+  born_on: "2009-07-24"
+  notes: Quis velit tempora soluta alias. Vitae dolorum facilis praesentium eum. Quam est reprehenderit sunt eligendi. Quis consectetur et aspernatur repellendus. Eos libero consequuntur doloribus in. Eius maiores id architecto veniam. Sapiente totam et et perspiciatis. Impedit eum sint nobis impedit. Ratione voluptatem exercitationem et recusandae.
+  suspended: "true"
+player_73: 
+  team: team_12
+  name: Jackie Runte
+  position: Sequi est nam qui illum.
+  number: 441
+  retired: "true"
+  injured: "true"
+  born_on: "2009-10-10"
+  notes: Debitis ex fuga ut rem. Minima rerum dolorum provident aut. Totam dolores aut magni voluptatibus. Rerum repellendus dolor nulla hic. Velit repellat et qui aperiam. Qui provident officiis rerum ipsum. Dolorem illum ut dignissimos est. Et sed qui officiis rerum. Earum qui voluptas qui perferendis.
+  suspended: "false"
+player_74: 
+  team: team_35
+  name: Claudia Toy
+  position: Velit molestiae beatae sed qui. Architecto sint officiis magnam laboriosam. Et consequatur qui facilis et.
+  number: 382
+  retired: "false"
+  injured: "true"
+  born_on: "2009-12-28"
+  notes: Officiis et consequatur minus ullam. Rerum voluptatum et et repellat. Laborum et unde expedita eveniet. Quisquam similique corrupti animi nihil. Et facilis voluptas libero labore. Perferendis enim saepe magnam expedita. Perspiciatis rerum quia dolorem rem. Ea quia dolorum ea cupiditate. Distinctio et voluptatem enim quod. Sed corporis quos sint tempore. Ullam a in autem impedit. Rerum omnis cupiditate aspernatur suscipit. Ex dolorem voluptatem possimus et. Rerum incidunt saepe ipsa laboriosam. Labore dicta est atque et. Quae ut laudantium omnis sed. Hic nobis hic vel recusandae. Et explicabo saepe illo occaecati. Consequatur ipsum eveniet assumenda dicta. Alias et voluptas est sit. Omnis sunt enim magni nesciunt. Cupiditate eaque praesentium atque odio. Consequuntur atque reprehenderit unde enim. Adipisci qui accusantium quos necessitatibus. Enim laboriosam et consectetur neque. Totam ut iste autem illo. At mollitia inventore voluptatum dicta.
+  suspended: "false"
+player_75: 
+  team: team_22
+  name: Ms. Jasper Bogisich
+  position: Magni quod ut quisquam necessitatibus. Et ut voluptas voluptatibus nisi. Et quaerat incidunt officiis cumque.
+  number: 594
+  retired: "true"
+  injured: "false"
+  born_on: "2010-06-13"
+  notes: Magnam ut velit consequatur et. Non quo ipsa tempora esse. Reprehenderit non dolore dolorem doloremque. Occaecati voluptas accusantium velit rerum. Nesciunt molestias pariatur possimus dolor. Dolores non commodi iste porro. Nam ipsum nam quam tempora. Necessitatibus ducimus qui molestias facere. Qui blanditiis tempora est dignissimos.
+  suspended: "false"
+player_76: 
+  team: team_18
+  name: Mr. Sheila Pollich
+  position: Quisquam consequatur est fuga reprehenderit.
+  number: 501
+  retired: "true"
+  injured: "true"
+  born_on: "2009-12-04"
+  notes: Quia voluptatibus atque voluptatum qui. At accusamus tempore omnis velit. Aliquid quia dolores rerum nisi. Quia doloremque delectus libero quo. Reprehenderit officia natus autem perferendis. Rerum et natus eum odit. Recusandae velit vel exercitationem repudiandae. Cupiditate corrupti quaerat ut exercitationem. Illo asperiores velit non deserunt. Numquam libero eum animi laboriosam. At ut excepturi ad debitis. Incidunt corrupti nihil officiis iste. Nemo distinctio sit sit eos. Molestiae non voluptas nobis ut. Sit eveniet illum enim et. Atque mollitia architecto aut possimus. Voluptatem dolor expedita numquam accusantium. Sit adipisci aut corrupti voluptatem. Rerum possimus cupiditate ad ad. Et est aut saepe omnis. Nihil nam et fugiat dignissimos. Totam amet odit quo rerum. Unde doloribus debitis aut fuga. Esse maxime enim ullam incidunt. Occaecati quasi excepturi delectus eaque. Numquam eveniet saepe expedita rerum. Corporis sunt aut sint deleniti.
+  suspended: "true"
+player_77: 
+  team: team_20
+  name: Stefan Welch
+  position: Et velit error aut quia. Amet aut consequatur quasi repellendus. Et quidem quaerat ea nesciunt.
+  number: 923
+  retired: "false"
+  injured: "true"
+  born_on: "2010-08-24"
+  notes: Repellat optio asperiores nihil magnam. Accusantium quae sequi aut voluptatibus. Eius et ut quia alias. Eum quia ut voluptas et. Molestiae eius ut eum animi. Porro non ut qui sed. Voluptas magnam nostrum laboriosam eos. Dolores architecto dolorem nobis et. Quia ducimus incidunt et nulla.
+  suspended: "false"
+player_78: 
+  team: team_1
+  name: Reta Wilkinson
+  position: Non quia optio pariatur sint.
+  number: 448
+  retired: "true"
+  injured: "false"
+  born_on: "2009-09-20"
+  notes: Deleniti pariatur voluptatum sit voluptatibus. Veritatis sunt sit temporibus saepe. Non aut voluptas minima placeat. Inventore ut quis optio molestias. Voluptatibus sint iste in itaque. Sint commodi qui aut ad. Aut qui perferendis libero voluptas. Vel suscipit occaecati ipsa laudantium. Et qui ut tempore ad. Fugiat totam vitae id voluptas. Aut commodi assumenda non velit. Cumque id architecto animi repudiandae. Et id cumque sit vitae. Et officia veniam quis autem. Recusandae nisi est quasi non. Unde debitis aut et aliquam. Ut ad corporis id distinctio. In saepe ad et aut. Necessitatibus ut doloremque perferendis aut. Expedita at recusandae soluta quae. Iusto aperiam tempora nisi blanditiis. Minus quas excepturi odit enim. Quia consequuntur tempora nulla quidem. Eum qui repellat id maiores. Doloribus eum voluptate voluptatibus iusto. Voluptatibus dignissimos dolore consequuntur minus. Quaerat non nihil nesciunt labore.
+  suspended: "false"
+player_79: 
+  team: team_20
+  name: Milford Marvin
+  position: Esse vel cupiditate aut soluta. Laborum non natus dicta aliquam. Fuga ullam eos ducimus cum.
+  number: 567
+  retired: "true"
+  injured: "false"
+  born_on: "2010-09-29"
+  notes: Dolores voluptatem maxime consequatur qui. Porro expedita dignissimos enim sed. Dolor est mollitia molestias aut. Hic est aut illum ea. Earum doloribus et dolore veniam. Omnis a earum vel sed. Exercitationem excepturi et rem ullam. Sunt reprehenderit omnis qui doloribus. Non et et earum quod.
+  suspended: "true"

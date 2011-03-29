@@ -1,62 +1,62 @@
-# 'divisions' data generated automatically by dummy at 18:31 03/29/2011 (20 records).
+# 'divisions' data generated automatically by dummy at 19:57 03/29/2011 (20 records).
 --- 
 division_0: 
-  league: league_7
-  name: Mr. Jessyca Cartwright
-division_1: 
-  league: league_8
-  name: Thelma Haag
-division_2: 
   league: league_5
-  name: Arjun Cartwright
+  name: Madge Carroll
+division_1: 
+  league: league_6
+  name: Thelma Tremblay
+division_2: 
+  league: league_2
+  name: Tristin Reynolds
 division_3: 
-  league: league_3
-  name: Rosa Wuckert
+  league: league_0
+  name: Weston Thiel
 division_4: 
-  league: league_6
-  name: Myrtice Hyatt
+  league: league_8
+  name: Cade Turcotte
 division_5: 
-  league: league_2
-  name: Dora Gorczany
+  league: league_3
+  name: Citlalli Dietrich
 division_6: 
-  league: league_4
-  name: Michael Legros
+  league: league_5
+  name: Yoshiko King
 division_7: 
-  league: league_7
-  name: Willa Effertz
+  league: league_3
+  name: Carmelo Lindgren
 division_8: 
-  league: league_4
-  name: Barrett Romaguera
+  league: league_5
+  name: Camylle Christiansen
 division_9: 
-  league: league_2
-  name: Jayme Gaylord V
+  league: league_3
+  name: Khalid Prohaska
 division_10: 
-  league: league_0
-  name: Jaqueline Bailey
+  league: league_1
+  name: Derick Ziemann
 division_11: 
-  league: league_1
-  name: Denis Johnston
+  league: league_7
+  name: Sonny Murphy Jr.
 division_12: 
-  league: league_0
-  name: Ayla Feil
-division_13: 
-  league: league_7
-  name: Ila Corkery
-division_14: 
-  league: league_8
-  name: Hubert Feeney
-division_15: 
-  league: league_8
-  name: Vance Tremblay
-division_16: 
-  league: league_6
-  name: Minerva Gleason
-division_17: 
-  league: league_1
-  name: Melyna Price
-division_18: 
-  league: league_7
-  name: Mrs. Jacquelyn Feest
-division_19: 
   league: league_4
-  name: Lia Lubowitz
+  name: Lauryn Adams
+division_13: 
+  league: league_2
+  name: Armand Simonis
+division_14: 
+  league: league_3
+  name: Elwyn Klein
+division_15: 
+  league: league_2
+  name: Myron Konopelski
+division_16: 
+  league: league_8
+  name: Opal Rice MD
+division_17: 
+  league: league_9
+  name: Octavia Maggio
+division_18: 
+  league: league_5
+  name: Logan Quigley
+division_19: 
+  league: league_0
+  name: Triston Macejkovic

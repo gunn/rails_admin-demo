@@ -1,642 +1,642 @@
-# 'rel_tests' data generated automatically by dummy at 18:31 03/29/2011 (160 records).
+# 'rel_tests' data generated automatically by dummy at 19:57 03/29/2011 (160 records).
 --- 
 rel_test_0: 
-  league: league_5
-  division: division_4
-  player: player_25
-rel_test_1: 
-  league: league_2
-  division: division_3
-  player: player_38
-rel_test_2: 
   league: league_8
-  division: division_18
-  player: player_15
-rel_test_3: 
-  league: league_0
-  division: division_17
-  player: player_2
-rel_test_4: 
-  league: league_8
-  division: division_19
-  player: player_37
-rel_test_5: 
-  league: league_9
-  division: division_0
-  player: player_28
-rel_test_6: 
-  league: league_5
-  division: division_3
-  player: player_0
-rel_test_7: 
-  league: league_9
-  division: division_0
-  player: player_3
-rel_test_8: 
-  league: league_4
-  division: division_15
-  player: player_79
-rel_test_9: 
-  league: league_8
-  division: division_18
-  player: player_13
-rel_test_10: 
-  league: league_3
-  division: division_6
-  player: player_40
-rel_test_11: 
-  league: league_4
-  division: division_19
-  player: player_39
-rel_test_12: 
-  league: league_5
-  division: division_13
-  player: player_12
-rel_test_13: 
-  league: league_4
-  division: division_19
-  player: player_30
-rel_test_14: 
-  league: league_9
-  division: division_14
-  player: player_13
-rel_test_15: 
-  league: league_8
-  division: division_3
-  player: player_5
-rel_test_16: 
-  league: league_5
-  division: division_5
-  player: player_62
-rel_test_17: 
-  league: league_0
-  division: division_2
-  player: player_24
-rel_test_18: 
-  league: league_6
-  division: division_12
-  player: player_56
-rel_test_19: 
-  league: league_8
-  division: division_0
-  player: player_15
-rel_test_20: 
-  league: league_9
-  division: division_15
-  player: player_59
-rel_test_21: 
-  league: league_0
-  division: division_12
-  player: player_0
-rel_test_22: 
-  league: league_9
-  division: division_11
-  player: player_3
-rel_test_23: 
-  league: league_7
-  division: division_8
-  player: player_46
-rel_test_24: 
-  league: league_0
-  division: division_8
-  player: player_73
-rel_test_25: 
-  league: league_7
-  division: division_15
-  player: player_35
-rel_test_26: 
-  league: league_0
-  division: division_12
-  player: player_15
-rel_test_27: 
-  league: league_5
-  division: division_2
-  player: player_55
-rel_test_28: 
-  league: league_4
-  division: division_13
-  player: player_34
-rel_test_29: 
-  league: league_7
-  division: division_3
-  player: player_78
-rel_test_30: 
-  league: league_9
-  division: division_12
-  player: player_60
-rel_test_31: 
-  league: league_9
   division: division_10
-  player: player_70
-rel_test_32: 
-  league: league_4
-  division: division_19
-  player: player_47
-rel_test_33: 
-  league: league_2
-  division: division_12
-  player: player_16
-rel_test_34: 
-  league: league_5
-  division: division_11
-  player: player_13
-rel_test_35: 
-  league: league_0
-  division: division_16
-  player: player_10
-rel_test_36: 
+  player: player_33
+rel_test_1: 
   league: league_7
-  division: division_9
-  player: player_68
-rel_test_37: 
-  league: league_2
-  division: division_5
-  player: player_19
-rel_test_38: 
+  division: division_14
+  player: player_46
+rel_test_2: 
   league: league_9
-  division: division_6
+  division: division_19
+  player: player_35
+rel_test_3: 
+  league: league_1
+  division: division_18
+  player: player_34
+rel_test_4: 
+  league: league_4
+  division: division_10
+  player: player_47
+rel_test_5: 
+  league: league_3
+  division: division_7
+  player: player_31
+rel_test_6: 
+  league: league_6
+  division: division_4
   player: player_22
-rel_test_39: 
-  league: league_8
+rel_test_7: 
+  league: league_3
+  division: division_14
+  player: player_36
+rel_test_8: 
+  league: league_7
+  division: division_2
+  player: player_49
+rel_test_9: 
+  league: league_5
+  division: division_6
+  player: player_36
+rel_test_10: 
+  league: league_0
   division: division_12
-  player: player_28
-rel_test_40: 
+  player: player_21
+rel_test_11: 
   league: league_1
   division: division_7
-  player: player_51
-rel_test_41: 
-  league: league_3
+  player: player_42
+rel_test_12: 
+  league: league_1
   division: division_19
-  player: player_57
-rel_test_42: 
-  league: league_6
-  division: division_15
-  player: player_10
-rel_test_43: 
+  player: player_34
+rel_test_13: 
+  league: league_3
+  division: division_13
+  player: player_46
+rel_test_14: 
+  league: league_3
+  division: division_11
+  player: player_71
+rel_test_15: 
   league: league_7
   division: division_17
-  player: player_59
-rel_test_44: 
-  league: league_8
-  division: division_16
-  player: player_40
-rel_test_45: 
+  player: player_22
+rel_test_16: 
+  league: league_9
+  division: division_8
+  player: player_75
+rel_test_17: 
+  league: league_9
+  division: division_7
+  player: player_69
+rel_test_18: 
   league: league_6
-  division: division_10
-  player: player_54
-rel_test_46: 
-  league: league_5
+  division: division_0
+  player: player_62
+rel_test_19: 
+  league: league_3
+  division: division_13
+  player: player_66
+rel_test_20: 
+  league: league_1
+  division: division_0
+  player: player_50
+rel_test_21: 
+  league: league_6
+  division: division_1
+  player: player_31
+rel_test_22: 
+  league: league_3
   division: division_4
+  player: player_41
+rel_test_23: 
+  league: league_0
+  division: division_18
+  player: player_51
+rel_test_24: 
+  league: league_6
+  division: division_1
   player: player_0
-rel_test_47: 
+rel_test_25: 
+  league: league_4
+  division: division_4
+  player: player_53
+rel_test_26: 
+  league: league_4
+  division: division_1
+  player: player_45
+rel_test_27: 
+  league: league_3
+  division: division_1
+  player: player_51
+rel_test_28: 
+  league: league_0
+  division: division_8
+  player: player_65
+rel_test_29: 
+  league: league_0
+  division: division_14
+  player: player_65
+rel_test_30: 
+  league: league_9
+  division: division_8
+  player: player_48
+rel_test_31: 
+  league: league_9
+  division: division_13
+  player: player_42
+rel_test_32: 
   league: league_5
   division: division_11
-  player: player_56
-rel_test_48: 
-  league: league_9
-  division: division_16
   player: player_11
-rel_test_49: 
+rel_test_33: 
+  league: league_7
+  division: division_11
+  player: player_68
+rel_test_34: 
+  league: league_2
+  division: division_17
+  player: player_29
+rel_test_35: 
+  league: league_5
+  division: division_1
+  player: player_55
+rel_test_36: 
+  league: league_0
+  division: division_12
+  player: player_28
+rel_test_37: 
+  league: league_3
+  division: division_0
+  player: player_10
+rel_test_38: 
+  league: league_2
+  division: division_11
+  player: player_55
+rel_test_39: 
+  league: league_0
+  division: division_5
+  player: player_19
+rel_test_40: 
+  league: league_2
+  division: division_19
+  player: player_0
+rel_test_41: 
+  league: league_5
+  division: division_11
+  player: player_21
+rel_test_42: 
+  league: league_2
+  division: division_5
+  player: player_65
+rel_test_43: 
   league: league_2
   division: division_12
+  player: player_58
+rel_test_44: 
+  league: league_3
+  division: division_1
+  player: player_35
+rel_test_45: 
+  league: league_3
+  division: division_17
+  player: player_77
+rel_test_46: 
+  league: league_1
+  division: division_15
+  player: player_52
+rel_test_47: 
+  league: league_4
+  division: division_0
+  player: player_31
+rel_test_48: 
+  league: league_8
+  division: division_19
+  player: player_0
+rel_test_49: 
+  league: league_6
+  division: division_14
   player: player_79
 rel_test_50: 
-  league: league_2
+  league: league_0
   division: division_5
-  player: player_3
+  player: player_25
 rel_test_51: 
-  league: league_5
-  division: division_9
-  player: player_0
+  league: league_8
+  division: division_5
+  player: player_43
 rel_test_52: 
-  league: league_4
-  division: division_1
-  player: player_62
+  league: league_8
+  division: division_5
+  player: player_44
 rel_test_53: 
   league: league_3
-  division: division_15
-  player: player_33
+  division: division_6
+  player: player_0
 rel_test_54: 
-  league: league_4
-  division: division_9
-  player: player_30
-rel_test_55: 
-  league: league_1
-  division: division_15
-  player: player_22
-rel_test_56: 
   league: league_8
+  division: division_7
+  player: player_71
+rel_test_55: 
+  league: league_6
   division: division_18
-  player: player_11
-rel_test_57: 
-  league: league_0
-  division: division_11
-  player: player_47
-rel_test_58: 
-  league: league_7
-  division: division_9
-  player: player_24
-rel_test_59: 
-  league: league_1
-  division: division_16
-  player: player_39
-rel_test_60: 
-  league: league_1
+  player: player_5
+rel_test_56: 
+  league: league_9
   division: division_0
-  player: player_47
-rel_test_61: 
-  league: league_6
-  division: division_13
-  player: player_2
-rel_test_62: 
-  league: league_6
-  division: division_0
-  player: player_60
-rel_test_63: 
-  league: league_7
-  division: division_8
-  player: player_30
-rel_test_64: 
-  league: league_2
-  division: division_19
-  player: player_31
-rel_test_65: 
-  league: league_2
-  division: division_1
   player: player_32
+rel_test_57: 
+  league: league_2
+  division: division_2
+  player: player_7
+rel_test_58: 
+  league: league_2
+  division: division_16
+  player: player_70
+rel_test_59: 
+  league: league_2
+  division: division_3
+  player: player_40
+rel_test_60: 
+  league: league_9
+  division: division_8
+  player: player_10
+rel_test_61: 
+  league: league_7
+  division: division_7
+  player: player_44
+rel_test_62: 
+  league: league_7
+  division: division_0
+  player: player_73
+rel_test_63: 
+  league: league_4
+  division: division_6
+  player: player_32
+rel_test_64: 
+  league: league_4
+  division: division_5
+  player: player_41
+rel_test_65: 
+  league: league_3
+  division: division_16
+  player: player_63
 rel_test_66: 
-  league: league_1
-  division: division_14
-  player: player_79
+  league: league_3
+  division: division_3
+  player: player_14
 rel_test_67: 
   league: league_2
-  division: division_5
-  player: player_24
+  division: division_9
+  player: player_70
 rel_test_68: 
-  league: league_0
-  division: division_13
-  player: player_13
+  league: league_8
+  division: division_8
+  player: player_12
 rel_test_69: 
-  league: league_9
-  division: division_15
-  player: player_69
-rel_test_70: 
-  league: league_2
-  division: division_17
-  player: player_11
-rel_test_71: 
-  league: league_9
-  division: division_0
-  player: player_10
-rel_test_72: 
-  league: league_7
-  division: division_14
-  player: player_59
-rel_test_73: 
-  league: league_5
-  division: division_17
-  player: player_3
-rel_test_74: 
   league: league_1
   division: division_10
   player: player_8
+rel_test_70: 
+  league: league_2
+  division: division_14
+  player: player_6
+rel_test_71: 
+  league: league_7
+  division: division_16
+  player: player_34
+rel_test_72: 
+  league: league_4
+  division: division_5
+  player: player_18
+rel_test_73: 
+  league: league_4
+  division: division_10
+  player: player_6
+rel_test_74: 
+  league: league_6
+  division: division_6
+  player: player_23
 rel_test_75: 
   league: league_9
-  division: division_8
-  player: player_28
+  division: division_1
+  player: player_16
 rel_test_76: 
-  league: league_2
-  division: division_3
-  player: player_67
+  league: league_7
+  division: division_16
+  player: player_39
 rel_test_77: 
-  league: league_8
-  division: division_18
-  player: player_50
+  league: league_0
+  division: division_8
+  player: player_11
 rel_test_78: 
-  league: league_7
-  division: division_18
-  player: player_74
+  league: league_9
+  division: division_9
+  player: player_45
 rel_test_79: 
-  league: league_5
-  division: division_10
-  player: player_22
+  league: league_9
+  division: division_16
+  player: player_18
 rel_test_80: 
-  league: league_7
-  division: division_0
-  player: player_19
-rel_test_81: 
-  league: league_3
-  division: division_7
-  player: player_51
-rel_test_82: 
   league: league_1
-  division: division_5
-  player: player_31
+  division: division_3
+  player: player_73
+rel_test_81: 
+  league: league_9
+  division: division_8
+  player: player_8
+rel_test_82: 
+  league: league_3
+  division: division_17
+  player: player_75
 rel_test_83: 
-  league: league_6
-  division: division_7
-  player: player_14
-rel_test_84: 
-  league: league_4
-  division: division_11
-  player: player_51
-rel_test_85: 
   league: league_9
   division: division_11
-  player: player_19
-rel_test_86: 
+  player: player_77
+rel_test_84: 
   league: league_6
   division: division_4
-  player: player_58
-rel_test_87: 
-  league: league_4
-  division: division_3
-  player: player_7
-rel_test_88: 
+  player: player_31
+rel_test_85: 
   league: league_6
-  division: division_18
-  player: player_6
-rel_test_89: 
-  league: league_0
-  division: division_19
-  player: player_21
-rel_test_90: 
-  league: league_5
-  division: division_9
-  player: player_38
-rel_test_91: 
-  league: league_2
-  division: division_9
-  player: player_0
-rel_test_92: 
+  division: division_3
+  player: player_33
+rel_test_86: 
   league: league_1
-  division: division_12
-  player: player_78
-rel_test_93: 
-  league: league_4
-  division: division_8
-  player: player_53
-rel_test_94: 
-  league: league_9
-  division: division_17
-  player: player_55
-rel_test_95: 
-  league: league_0
   division: division_0
-  player: player_34
-rel_test_96: 
+  player: player_50
+rel_test_87: 
+  league: league_6
+  division: division_1
+  player: player_46
+rel_test_88: 
+  league: league_4
+  division: division_0
+  player: player_69
+rel_test_89: 
+  league: league_8
+  division: division_12
+  player: player_24
+rel_test_90: 
   league: league_3
-  division: division_19
-  player: player_67
+  division: division_13
+  player: player_41
+rel_test_91: 
+  league: league_9
+  division: division_9
+  player: player_49
+rel_test_92: 
+  league: league_9
+  division: division_16
+  player: player_22
+rel_test_93: 
+  league: league_8
+  division: division_0
+  player: player_70
+rel_test_94: 
+  league: league_5
+  division: division_12
+  player: player_57
+rel_test_95: 
+  league: league_2
+  division: division_6
+  player: player_73
+rel_test_96: 
+  league: league_2
+  division: division_6
+  player: player_53
 rel_test_97: 
   league: league_5
   division: division_1
-  player: player_2
+  player: player_59
 rel_test_98: 
-  league: league_0
-  division: division_8
-  player: player_30
+  league: league_4
+  division: division_16
+  player: player_71
 rel_test_99: 
-  league: league_5
-  division: division_0
-  player: player_3
-rel_test_100: 
-  league: league_9
-  division: division_8
-  player: player_63
-rel_test_101: 
-  league: league_0
-  division: division_0
-  player: player_43
-rel_test_102: 
-  league: league_8
-  division: division_16
-  player: player_25
-rel_test_103: 
-  league: league_5
-  division: division_10
-  player: player_46
-rel_test_104: 
-  league: league_1
-  division: division_1
+  league: league_6
+  division: division_18
   player: player_24
-rel_test_105: 
-  league: league_8
-  division: division_18
-  player: player_56
-rel_test_106: 
+rel_test_100: 
   league: league_4
   division: division_1
-  player: player_1
-rel_test_107: 
-  league: league_7
-  division: division_18
+  player: player_34
+rel_test_101: 
+  league: league_6
+  division: division_0
+  player: player_12
+rel_test_102: 
+  league: league_5
+  division: division_0
   player: player_68
-rel_test_108: 
+rel_test_103: 
+  league: league_2
+  division: division_19
+  player: player_41
+rel_test_104: 
+  league: league_7
+  division: division_3
+  player: player_30
+rel_test_105: 
   league: league_4
   division: division_16
-  player: player_3
-rel_test_109: 
-  league: league_2
+  player: player_18
+rel_test_106: 
+  league: league_9
+  division: division_2
+  player: player_26
+rel_test_107: 
+  league: league_0
   division: division_15
-  player: player_77
+  player: player_6
+rel_test_108: 
+  league: league_6
+  division: division_5
+  player: player_22
+rel_test_109: 
+  league: league_3
+  division: division_10
+  player: player_33
 rel_test_110: 
-  league: league_1
-  division: division_19
-  player: player_14
-rel_test_111: 
-  league: league_0
-  division: division_14
-  player: player_66
-rel_test_112: 
-  league: league_2
-  division: division_11
-  player: player_45
-rel_test_113: 
   league: league_7
-  division: division_7
-  player: player_1
+  division: division_6
+  player: player_69
+rel_test_111: 
+  league: league_6
+  division: division_11
+  player: player_78
+rel_test_112: 
+  league: league_1
+  division: division_13
+  player: player_37
+rel_test_113: 
+  league: league_5
+  division: division_9
+  player: player_48
 rel_test_114: 
-  league: league_0
-  division: division_8
-  player: player_25
+  league: league_5
+  division: division_5
+  player: player_31
 rel_test_115: 
   league: league_2
   division: division_19
-  player: player_49
+  player: player_76
 rel_test_116: 
   league: league_3
-  division: division_12
-  player: player_74
+  division: division_15
+  player: player_52
 rel_test_117: 
-  league: league_2
-  division: division_19
-  player: player_31
-rel_test_118: 
-  league: league_6
-  division: division_1
-  player: player_4
-rel_test_119: 
   league: league_4
-  division: division_11
-  player: player_22
-rel_test_120: 
+  division: division_2
+  player: player_36
+rel_test_118: 
+  league: league_7
+  division: division_15
+  player: player_46
+rel_test_119: 
   league: league_6
-  division: division_10
-  player: player_23
-rel_test_121: 
-  league: league_9
-  division: division_9
-  player: player_77
-rel_test_122: 
-  league: league_2
   division: division_16
   player: player_3
-rel_test_123: 
-  league: league_4
-  division: division_1
-  player: player_0
-rel_test_124: 
-  league: league_1
+rel_test_120: 
+  league: league_5
   division: division_5
-  player: player_53
-rel_test_125: 
+  player: player_51
+rel_test_121: 
   league: league_9
-  division: division_16
-  player: player_34
-rel_test_126: 
-  league: league_5
-  division: division_10
-  player: player_26
-rel_test_127: 
-  league: league_5
   division: division_7
-  player: player_14
-rel_test_128: 
-  league: league_3
-  division: division_2
-  player: player_26
-rel_test_129: 
-  league: league_2
-  division: division_2
-  player: player_0
-rel_test_130: 
-  league: league_6
-  division: division_2
-  player: player_4
-rel_test_131: 
-  league: league_1
-  division: division_16
-  player: player_71
-rel_test_132: 
-  league: league_4
-  division: division_4
-  player: player_24
-rel_test_133: 
-  league: league_0
-  division: division_3
-  player: player_75
-rel_test_134: 
-  league: league_2
-  division: division_17
-  player: player_45
-rel_test_135: 
-  league: league_6
-  division: division_4
-  player: player_30
-rel_test_136: 
-  league: league_3
-  division: division_5
-  player: player_24
-rel_test_137: 
-  league: league_4
-  division: division_13
-  player: player_7
-rel_test_138: 
-  league: league_3
-  division: division_1
-  player: player_37
-rel_test_139: 
-  league: league_8
-  division: division_18
-  player: player_72
-rel_test_140: 
-  league: league_9
-  division: division_15
-  player: player_9
-rel_test_141: 
-  league: league_2
-  division: division_12
-  player: player_14
-rel_test_142: 
-  league: league_3
-  division: division_17
-  player: player_7
-rel_test_143: 
-  league: league_8
-  division: division_0
-  player: player_59
-rel_test_144: 
-  league: league_4
-  division: division_1
-  player: player_44
-rel_test_145: 
-  league: league_6
-  division: division_16
-  player: player_36
-rel_test_146: 
+  player: player_50
+rel_test_122: 
   league: league_7
-  division: division_5
-  player: player_75
-rel_test_147: 
-  league: league_6
-  division: division_15
-  player: player_72
-rel_test_148: 
+  division: division_19
+  player: player_18
+rel_test_123: 
   league: league_1
-  division: division_15
-  player: player_69
-rel_test_149: 
+  division: division_10
+  player: player_66
+rel_test_124: 
   league: league_9
-  division: division_15
-  player: player_11
-rel_test_150: 
-  league: league_9
-  division: division_13
-  player: player_22
-rel_test_151: 
-  league: league_1
-  division: division_18
-  player: player_42
-rel_test_152: 
+  division: division_0
+  player: player_73
+rel_test_125: 
+  league: league_8
+  division: division_17
+  player: player_74
+rel_test_126: 
+  league: league_7
+  division: division_12
+  player: player_15
+rel_test_127: 
   league: league_1
   division: division_11
-  player: player_24
-rel_test_153: 
+  player: player_59
+rel_test_128: 
+  league: league_9
+  division: division_6
+  player: player_71
+rel_test_129: 
   league: league_2
-  division: division_16
-  player: player_55
-rel_test_154: 
+  division: division_6
+  player: player_42
+rel_test_130: 
+  league: league_9
+  division: division_5
+  player: player_21
+rel_test_131: 
+  league: league_6
+  division: division_19
+  player: player_40
+rel_test_132: 
+  league: league_7
+  division: division_5
+  player: player_29
+rel_test_133: 
+  league: league_7
+  division: division_6
+  player: player_7
+rel_test_134: 
+  league: league_1
+  division: division_0
+  player: player_53
+rel_test_135: 
   league: league_4
+  division: division_9
+  player: player_20
+rel_test_136: 
+  league: league_4
+  division: division_1
+  player: player_28
+rel_test_137: 
+  league: league_1
+  division: division_8
+  player: player_48
+rel_test_138: 
+  league: league_0
+  division: division_6
+  player: player_74
+rel_test_139: 
+  league: league_6
   division: division_13
+  player: player_17
+rel_test_140: 
+  league: league_4
+  division: division_12
+  player: player_75
+rel_test_141: 
+  league: league_7
+  division: division_6
+  player: player_27
+rel_test_142: 
+  league: league_3
+  division: division_19
+  player: player_19
+rel_test_143: 
+  league: league_1
+  division: division_18
+  player: player_64
+rel_test_144: 
+  league: league_9
+  division: division_2
   player: player_63
+rel_test_145: 
+  league: league_7
+  division: division_2
+  player: player_77
+rel_test_146: 
+  league: league_7
+  division: division_7
+  player: player_18
+rel_test_147: 
+  league: league_0
+  division: division_2
+  player: player_13
+rel_test_148: 
+  league: league_0
+  division: division_11
+  player: player_22
+rel_test_149: 
+  league: league_7
+  division: division_0
+  player: player_76
+rel_test_150: 
+  league: league_9
+  division: division_19
+  player: player_77
+rel_test_151: 
+  league: league_5
+  division: division_10
+  player: player_75
+rel_test_152: 
+  league: league_4
+  division: division_6
+  player: player_23
+rel_test_153: 
+  league: league_3
+  division: division_19
+  player: player_73
+rel_test_154: 
+  league: league_8
+  division: division_11
+  player: player_51
 rel_test_155: 
   league: league_3
-  division: division_9
-  player: player_9
+  division: division_16
+  player: player_23
 rel_test_156: 
-  league: league_2
-  division: division_1
-  player: player_40
+  league: league_1
+  division: division_7
+  player: player_39
 rel_test_157: 
-  league: league_5
-  division: division_4
-  player: player_72
+  league: league_7
+  division: division_19
+  player: player_55
 rel_test_158: 
   league: league_6
-  division: division_3
-  player: player_53
+  division: division_16
+  player: player_46
 rel_test_159: 
-  league: league_4
-  division: division_14
-  player: player_70
+  league: league_8
+  division: division_16
+  player: player_54
