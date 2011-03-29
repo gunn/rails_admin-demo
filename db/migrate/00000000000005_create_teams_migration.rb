@@ -5,10 +5,10 @@ class CreateTeamsMigration < ActiveRecord::Migration
       t.integer :league_id
       t.integer :division_id
       t.string :name
-      t.string :logo_url, :limit => 255
-      t.string :manager, :limit => 100, :null => false
-      t.string :ballpark, :limit => 100
-      t.string :mascot, :limit => 100
+      t.string :logo_url
+      t.string :manager, :null => false
+      t.string :ballpark
+      t.string :mascot
       t.integer :founded
       t.integer :wins
       t.integer :losses
