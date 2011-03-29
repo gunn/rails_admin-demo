@@ -1,3 +1,5 @@
+RailsAdmin.authenticate_with {}
+
 RailsAdmin.config do |c|
   c.excluded_models << RelTest << FieldTest
   c.navigation.max_visible_tabs 99
