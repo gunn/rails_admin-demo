@@ -1,0 +1,7 @@
+.DS_Store
+.bundle
+.rvmrc
+.yardoc
+log/*.log
+pkg/*
+tmp/**/*
