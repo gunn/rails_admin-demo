@@ -1,4 +1,4 @@
 Dummy::Application.routes.draw do
   # devise_for :users
-  root :to => proc { [200, {"Content-Type" => "text/html"}, ["Hi!"]] }
+  root :to => "rails_admin/main#index"
 end 
