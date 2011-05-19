@@ -1,13 +1,13 @@
 GIT
   remote: git://github.com/gunn/rails_admin.git
-  revision: 781597af7703af35d370a539b3c495c9de85e1fa
+  revision: b5b682ccd982e162ed32b2eb52f20f14154ae0e6
   branch: activo
   specs:
     rails_admin (0.0.1)
       builder (~> 2.1.0)
       haml (< 3.2.0, >= 3.0.0)
       haml-rails (~> 0.3.4)
-      rails (~> 3.0.6)
+      rails (~> 3.0.7)
 
 GEM
   remote: http://rubygems.org/
@@ -39,7 +39,7 @@ GEM
       activemodel (= 3.0.7)
       activesupport (= 3.0.7)
     activesupport (3.0.7)
-    arel (2.0.9)
+    arel (2.0.10)
     builder (2.1.2)
     dummy (0.9.1)
     dummy_data (0.9.1)
