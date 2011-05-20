@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/gunn/rails_admin.git
-  revision: 43712d2ae6bf8bc0757bbba999174da48f33651c
+  revision: ee5c1d69e89662ca3b82119911861591c8e84d16
   branch: activo
   specs:
     rails_admin (0.0.1)
