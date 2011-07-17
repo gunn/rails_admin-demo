@@ -1,12 +1,12 @@
 GIT
   remote: git://github.com/gunn/rails_admin.git
-  revision: 6c9b849c140db4c449256d5e9933732e73d9ccb1
+  revision: 59e1d6db8c9dbea7f64ece2c70df367f774a540f
   specs:
     rails_admin (0.0.1)
       builder (~> 2.1.0)
       fastercsv
-      haml (>= 3.0.0, < 3.2.0)
-      rails (~> 3.0.7)
+      haml (>= 3.1.0, < 3.3.0)
+      rails (~> 3.0.9)
 
 GEM
   remote: http://rubygems.org/
